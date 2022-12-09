@@ -1,0 +1,777 @@
+,Hotel name,Marks,Region City,Performances,Reviews,Price,Distances,Discriptions,Stars,Breakfast,Guests reviews:
+0,YOTEL London City,8.1,"Islington, London",Very Good ,"3,319 reviews","Original price 1,329 zł. Current price 798 zł.",2.3 km from center,Queen Room,4,,
+1,Park Grand London Hyde Park,6.9,"Westminster Borough, London",Review score ,"3,837 reviews",Price 529 zł,3.7 km from center,Deluxe Single Room,4,,
+2,Park Grand London Kensington,8.0,"Kensington and Chelsea, London",Very Good ,"6,123 reviews",Price 915 zł,4.7 km from center,Superior Double Room,4,,
+3,The California,7.7,"Camden, London",Good ,"1,722 reviews",Price 817 zł,2.5 km from center,Small Single Room,3,,Location 9.4
+4,Ambassadors Bloomsbury,6.8,"Camden, London",Review score ,"1,286 reviews",Price 812 zł,2.1 km from center,Single Room,4,,
+5,W12 Rooms,8.1,"Hammersmith and Fulham, London",Very Good ,"1,116 reviews",Price 485 zł,6.3 km from center,Single Room,4,,
+6,"Holiday Inn London Camden Lock, an IHG Hotel",8.2,"Camden, London",Very Good ,"3,498 reviews","Original price 1,123 zł. Current price 898 zł.",3.9 km from center,Double Room,4,,Location 9.4
+7,41,9.7,"Westminster Borough, London",Exceptional ,824 reviews,"Original price 2,250 zł. Current price 2,025 zł.",1.5 km from center,Executive Single,5,,Location 9.7
+8,Paddington Court Executive Rooms,7.1,"Westminster Borough, London",Good ,"1,416 reviews",Price 621 zł,3.7 km from center,Deluxe Single Room,4,,
+9,"Holiday Inn Express London Greenwich, an IHG Hotel",7.8,"Greenwich, London",Good ,"4,531 reviews",Price 626 zł,9.7 km from center,Double Room,3,Breakfast included,
+10,One Hundred Shoreditch,8.6,"Hackney, London",Excellent ,"1,796 reviews","Price 1,220 zł",4 km from center,Studio,5,,
+11,Leonardo Royal London St Paul’s,8.3,"City of London, London",Very Good ,"2,471 reviews","Price 1,123 zł",2.1 km from center,Superior Double Room,4,,Location 9.3
+12,Hyde Park International - Member of Park Grand London,6.9,"Westminster Borough, London",Review score ,"2,013 reviews",Price 529 zł,4.1 km from center,Deluxe Single Room,4,,
+13,Hotel Edward Paddington,7.0,"Westminster Borough, London",Good ,"3,205 reviews",Original price 817 zł. Current price 654 zł.,3.4 km from center,Single Room,3,,
+14,Dorsett City London,8.0,"City of London, London",Very Good ,"6,610 reviews","Original price 1,356 zł. Current price 1,153 zł.",3.7 km from center,Superior Double Room,4,,
+15,citizenM London Victoria Station,8.8,"Westminster Borough, London",Excellent ,887 reviews,"Price 1,084 zł",1.7 km from center,King Room,4,,Location 9.5
+16,The Marylebone Hotel,8.4,"Westminster Borough, London",Very Good ,658 reviews,"Price 1,896 zł",1.9 km from center,Queen Room,5,,Location 9.6
+17,The Dilly,7.3,"Westminster Borough, London",Good ,"2,355 reviews","Original price 1,629 zł. Current price 1,222 zł.",0.6 km from center,Dilly Classic Double Room,5,,Location 9.6
+18,Days Inn Hyde Park,7.4,"Westminster Borough, London",Good ,"1,408 reviews",Price 370 zł,3.3 km from center,Single Room - Non-Smoking,3,Breakfast included,
+19,The Mandeville Hotel,8.2,"Westminster Borough, London",Very Good ,"2,271 reviews","Price 1,019 zł",1.9 km from center,Tiny Single Room,4,,Location 9.6
+20,"The Hoxton, Holborn",8.6,"Camden, London",Excellent ,"1,416 reviews","Price 1,275 zł",1.1 km from center,Shoebox,4,,Location 9.5
+21,YHA London Earl's Court,8.5,"Kensington and Chelsea, London",Very Good ,"1,633 reviews",Price 191 zł,4.7 km from center,Bunk Bed in Male Dormitory Room with Shared Bathroom,4,,Location 9.3
+22,"Kimpton - Fitzroy London, an IHG Hotel",8.8,"Camden, London",Excellent ,"1,598 reviews","Price 1,035 zł",1.7 km from center,1 Single Bed City Single,5,,Location 9.4
+23,Park Grand London Lancaster Gate,7.4,"Westminster Borough, London",Good ,"1,496 reviews",Price 707 zł,3.7 km from center,Deluxe Single Room,5,,
+24,Dorsett Shepherds Bush London,7.9,"Hammersmith and Fulham, London",Good ,"3,573 reviews",Price 592 zł,6.7 km from center,Dorsett Double Room,4,,
+25,ibis London City - Shoreditch,8.0,"Tower Hamlets, London",Very Good ,"4,698 reviews",Price 686 zł,3.9 km from center,Double SweetRoom,3,,
+26,The House of Toby,7.6,"Camden, London",Good ,"5,313 reviews",Price 692 zł,2.4 km from center,Deluxe Single Room,3,Breakfast included,
+27,YHA London Central,8.3,"Westminster Borough, London",Very Good ,"2,500 reviews",Price 191 zł,1.8 km from center,Bunk Bed in Female Dormitory Room  ,4,,Location 9.3
+28,"Holiday Inn Express London-Hammersmith, an IHG Hotel",8.0,"Hammersmith and Fulham, London",Very Good ,"3,870 reviews",Price 681 zł,7.4 km from center,Double Room,3,Breakfast included,
+29,Mama Shelter London - Shoreditch,8.5,"Tower Hamlets, London",Very Good ,"1,824 reviews",Price 577 zł,5.3 km from center,Small Mama Single Room,4,,
+30,Belvedere Hotel,7.3,"Westminster Borough, London",Good ,"2,364 reviews",Price 444 zł,3.3 km from center,Single Room,2,,
+31,Clayton Hotel Chiswick,8.4,"Chiswick, London",Very Good ,"3,177 reviews",Price 735 zł,10.6 km from center,Deluxe Double Room,4,,
+32,Norfolk Towers Paddington,7.4,"Westminster Borough, London",Good ,"4,714 reviews",Original price 949 zł. Current price 873 zł.,3.2 km from center,Small Single Room,4,,
+33,Phoenix Hotel,8.3,"Westminster Borough, London",Very Good ,"2,829 reviews",Price 538 zł,4.3 km from center,Single Room,3,Breakfast included,
+34,Queens Park Hotel,5.7,"Westminster Borough, London",Review score ,"5,045 reviews",Price 647 zł,4 km from center,Double Room,3,,
+35,K West Hotel & Spa,7.6,"Hammersmith and Fulham, London",Good ,"3,319 reviews",Price 657 zł,6.2 km from center,Junior Double,4,,
+36,Ambassadors Bloomsbury,6.8,"Camden, London",Review score ,"1,286 reviews",Price 812 zł,2.1 km from center,Single Room,4,,
+37,The Barbican Rooms,7.4,"Islington, London",Good ,"2,214 reviews",Price 915 zł,2.9 km from center,Superior Double Room,5,,
+38,The California,7.7,"Camden, London",Good ,"1,722 reviews",Price 817 zł,2.5 km from center,Small Single Room,3,,Location 9.4
+39,"Radisson Blu Edwardian New Providence Wharf Hotel, London",8.8,"Tower Hamlets, London",Excellent ,"2,953 reviews",Price 875 zł,8.5 km from center,Superior King or Twin Room,4,,
+40,Novotel London West,7.3,"Hammersmith and Fulham, London",Good ,"3,279 reviews",Price 717 zł,6.6 km from center,Superior Room,4,,
+41,citizenM Tower of London,8.8,"City of London, London",Excellent ,"5,476 reviews",Price 975 zł,3.5 km from center,King Room,4,,Location 9.6
+42,The W14 Hotel,7.6,"Hammersmith and Fulham, London",Good ,"3,916 reviews",Price 668 zł,6 km from center,Petite Single Room with Private Bathroom,3,Breakfast included,
+43,Three Falcons,8.5,"Westminster Borough, London",Very Good ,435 reviews,Price 817 zł,3.7 km from center,Deluxe Double Room (1 adult + 1 child),0,,
+44,Dover Castle Hostel,7.3,"Southwark, London",Good ,"1,047 reviews",Price 175 zł,2.5 km from center,Bed in 10-Bed Mixed Dormitory Room,0,,
+45,"The Rathbone Hotel, Fitzrovia",8.7,"Westminster Borough, London",Excellent ,871 reviews,"Price 1,139 zł",1.4 km from center,Single Room,4,,Location 9.5
+46,Bedford Corner Hotel,7.2,"Camden, London",Good ,"1,540 reviews",Price 703 zł,1.3 km from center,Single Room,4,,
+47,Motel One London-Tower Hill,8.6,"City of London, London",Excellent ,"3,880 reviews",Price 703 zł,3.7 km from center,Standard Double Room,3,,Location 9.3
+48,Europa House Hotel,6.3,"Westminster Borough, London",Review score ,153 reviews,Price 409 zł,3.2 km from center,Single Room,2,,
+49,Fairway Hotel,7.6,"Camden, London",Good ,846 reviews,Original price 495 zł. Current price 470 zł.,2.4 km from center,Single Room,2,,Location 9.4
+50,Hilton London Kensington Hotel,7.0,"Kensington and Chelsea, London",Good ,"2,662 reviews",Price 648 zł,6 km from center,Double Hilton Guestroom,4,,
+51,DoubleTree by Hilton London Angel Kings Cross,7.9,"Islington, London",Good ,"3,748 reviews",Price 790 zł,3 km from center,Double Room,4,,
+52,The Premier Notting Hill,7.3,"Kensington and Chelsea, London",Good ,"4,278 reviews",Original price 539 zł. Current price 504 zł.,4.5 km from center,Deluxe Single Room,4,,
+53,Rubens At The Palace,8.6,"Westminster Borough, London",Excellent ,"2,566 reviews","Original price 1,591 zł. Current price 1,339 zł.",1.5 km from center,Executive Single,5,,Location 9.6
+54,DoubleTree by Hilton London - Hyde Park,7.8,"Kensington and Chelsea, London",Good ,"1,904 reviews",Price 855 zł,4.4 km from center,Single Room,4,,
+55,"Holiday Inn London Kensington High St., an IHG Hotel",7.1,"Kensington and Chelsea, London",Good ,"6,340 reviews",Price 746 zł,4.6 km from center,Standard Room,4,,
+56,Blue Bells Hotel,7.8,"Kensington and Chelsea, London",Good ,"1,656 reviews",Original price 937 zł. Current price 876 zł.,4.6 km from center,Quadruple Room,3,Breakfast included,
+57,Strathmore Hotel,7.6,"Kensington and Chelsea, London",Good ,"1,860 reviews","Original price 1,287 zł. Current price 901 zł.",3.9 km from center,Standard Single Room,4,,
+58,Novotel London Greenwich,7.3,"Greenwich, London",Good ,"2,288 reviews",Price 539 zł,8.6 km from center,Superior Double Room,4,,
+59,Hotel Shepherds Bush London,8.2,"Hammersmith and Fulham, London",Very Good ,"1,782 reviews",Original price 492 zł. Current price 398 zł.,6.8 km from center,Economy Single Room (basement - no window) ,4,,
+60,"Holiday Inn Express London - Wandsworth, an IHG Hotel",7.8,"Wandsworth, London",Good ,"2,480 reviews",Price 654 zł,6.6 km from center,Double Room - Disability Access,3,Breakfast included,
+61,Hilton London Euston,7.2,"Camden, London",Good ,"1,594 reviews",Price 872 zł,2.1 km from center,Single Guest Room,4,,
+62,"Intercontinental London - The O2, an IHG Hotel",8.8,"Greenwich, London",Excellent ,"7,046 reviews","Price 1,060 zł",8.9 km from center,1 King Bed Or Twin Bed Classic,5,,Location 9.4
+63,The Leonard Hotel,7.5,"Westminster Borough, London",Good ,892 reviews,Price 745 zł,2.2 km from center,Single Room with Shower,4,,Location 9.3
+64,Generator London,7.0,"Camden, London",Good ,"5,199 reviews",Price 357 zł,2.1 km from center,Bed in 10 + Mixed Dormitory Room,3,,
+65,Hilton London Hyde Park,7.4,"Bayswater, London",Good ,"1,261 reviews",Price 828 zł,4.2 km from center,Single Guest Room,4,,
+66,Sonder Chelsea Green,7.8,"Kensington and Chelsea, London",Good ,"1,524 reviews","Original price 1,536 zł. Current price 1,221 zł.",3.3 km from center,Standard Double Room,4,Breakfast included,
+67,"The Gantry London, Curio Collection By Hilton",8.7,"Newham, London",Excellent ,"1,121 reviews",Price 833 zł,9.4 km from center,King Gantry Room,4,,
+68,Park Avenue J Hotel London Hyde Park,7.2,"Westminster Borough, London",Good ,"3,645 reviews","Price 1,039 zł",4 km from center,Single Room,4,,
+69,Hyde Park Boutique Hotel,6.8,"Westminster Borough, London",Review score ,"2,268 reviews",Original price 866 zł. Current price 736 zł.,4 km from center,Single Room,3,,
+70,The Bull and The Hide,8.3,"City of London, London",Very Good ,684 reviews,"Original price 1,084 zł. Current price 1,014 zł.",3.4 km from center,Deluxe Double Room,0,Breakfast included,Location 9.5
+71,Eurotraveller Hotel - Premier - Tower Bridge,7.5,"Southwark, London",Good ,"2,291 reviews",Original price 447 zł. Current price 418 zł.,3.8 km from center,Double Room,3,,
+72,Blandford Hotel,7.5,"Westminster Borough, London",Good ,"1,132 reviews",Price 735 zł,2.5 km from center,Single Room,4,,Location 9.3
+73,The Crown Pub & Guesthouse,8.8,"Hackney, London",Excellent ,797 reviews,Price 394 zł,6.9 km from center,Single Room with Private Bathroom,3,,
+74,Studios2Let - North Gower,7.5,"Camden, London",Good ,"1,286 reviews",Price 534 zł,2.3 km from center,Small Studio,3,,
+75,YHA London Earl's Court,8.5,"Kensington and Chelsea, London",Very Good ,"1,633 reviews",Price 191 zł,4.7 km from center,Bunk Bed in Male Dormitory Room with Shared Bathroom,4,,Location 9.3
+76,"Radisson Blu Edwardian Berkshire Hotel, London",8.0,"Westminster Borough, London",Very Good ,"2,998 reviews","Price 1,014 zł",1.7 km from center,Single Room,4,,Location 9.5
+77,Crestfield Hotel,7.8,"Camden, London",Good ,"3,901 reviews",Price 463 zł,2.5 km from center,Single Room,2,,Location 9.4
+78,The Bryson Hotel,7.5,"Camden, London",Good ,749 reviews,Price 819 zł,2.1 km from center,Standard Double Room,4,,
+79,Park Grand London Lancaster Gate,7.4,"Westminster Borough, London",Good ,"1,496 reviews",Price 705 zł,3.7 km from center,Deluxe Single Room,5,,
+80,Eurotraveller Hotel- Express (Elephant & Castle),7.3,"Southwark, London",Good ,852 reviews,Price 594 zł,2.8 km from center,Single Room,3,,
+81,ibis Styles London Gloucester Road,7.9,"Kensington and Chelsea, London",Good ,"2,306 reviews",Price 681 zł,4.1 km from center,Twin Room,3,,Location 9.4
+82,Sidney Hotel London-Victoria,7.8,"Westminster Borough, London",Good ,"8,023 reviews",Price 572 zł,2 km from center,Single Room,3,,
+83,Comfort Inn London - Westminster,5.8,"Westminster Borough, London",Review score ,"1,558 reviews",Original price 366 zł. Current price 311 zł.,2 km from center,Single Room with Private Bathroom,3,,
+84,Hilton London Metropole,7.2,"Westminster Borough, London",Good ,"1,410 reviews",Price 926 zł,3.2 km from center,Queen Hilton Guest Room,4,,
+85,Clayton Hotel City of London,8.7,"Tower Hamlets, London",Excellent ,"3,602 reviews",Price 780 zł,4 km from center,Deluxe Double Room,4,,
+86,The Z Hotel City,7.8,"City of London, London",Good ,"5,625 reviews",Price 681 zł,1.4 km from center,Queen Room without Window,0,,
+87,citizenM London Victoria Station,8.8,"Westminster Borough, London",Excellent ,887 reviews,"Price 1,084 zł",1.7 km from center,King Room,4,,Location 9.5
+88,Cromwell International Hotel,4.5,"Kensington and Chelsea, London",Review score ,"4,357 reviews",Price 289 zł,4.4 km from center,Economy Single Room,3,,
+89,Fairway Hotel,7.6,"Camden, London",Good ,846 reviews,Original price 495 zł. Current price 470 zł.,2.4 km from center,Single Room,2,,Location 9.4
+90,Bermondsey Square Hotel - A Bespoke Hotel,8.0,"Southwark, London",Very Good ,"2,041 reviews",Original price 921 zł. Current price 709 zł.,3.4 km from center,Superior Double Room,4,,
+91,The Z Hotel Holborn,8.3,"Camden, London",Very Good ,"9,791 reviews",Price 790 zł,1.1 km from center,Z Inside Queen Accessible (without a window),0,,Location 9.5
+92,Hilton London Olympia,6.8,"Kensington and Chelsea, London",Review score ,"1,766 reviews",Price 812 zł,5.6 km from center,Premium Double Room,4,,
+93,Marylebone Inn,8.2,"Westminster Borough, London",Very Good ,"1,357 reviews",Price 661 zł,2.7 km from center,Single Room,2,,Location 9.4
+94,Pestana Chelsea Bridge Hotel,8.1,"Wandsworth, London",Very Good ,"2,585 reviews",Price 883 zł,3.2 km from center,Deluxe King Room,4,,
+95,The Z Hotel Victoria,7.9,"Westminster Borough, London",Good ,"5,973 reviews",Price 599 zł,1.8 km from center,Double Room without Window,0,,Location 9.5
+96,"Kimpton - Fitzroy London, an IHG Hotel",8.8,"Camden, London",Excellent ,"1,598 reviews","Price 1,035 zł",1.7 km from center,1 Single Bed City Single,5,,Location 9.4
+97,The Premier Notting Hill,7.3,"Kensington and Chelsea, London",Good ,"4,278 reviews",Price 539 zł,4.5 km from center,Deluxe Single Room,4,,
+98,Blueprint Living Apartments -Turnmill Street,8.0,"Clerkenwell, London",Very Good ,323 reviews,Price 981 zł,2.2 km from center,One-Bedroom Apartment,4,,
+99,ibis London Shepherds Bush - Hammersmith,8.0,"Hammersmith and Fulham, London",Very Good ,"1,585 reviews",Price 567 zł,6.4 km from center,Double Room,3,,
+100,Moxy London Excel,8.2,"Newham, London",Very Good ,"2,371 reviews",Price 518 zł,11.8 km from center,"Moxy Sleeper, Guest room, 1 Queen",4,,
+101,St Giles London – A St Giles Hotel,6.9,"Camden, London",Review score ,"8,686 reviews",Price 719 zł,1.2 km from center,Classic Single Room,3,,Location 9.3
+102,Millennium Hotel London Knightsbridge,6.7,"Kensington and Chelsea, London",Review score ,"2,550 reviews","Original price 1,438 zł. Current price 1,222 zł.",2.4 km from center,Standard Double Room,4,,
+103,Thanet Hotel Annex,4.1,"Camden, London",Review score ,"1,221 reviews",Price 485 zł,1.4 km from center,Single Room - Basic,0,,
+104,The Rookery,9.2,"Islington, London",Wonderful ,406 reviews,"Price 1,629 zł",2.2 km from center,Club Single Room,4,,Location 9.3
+105,Novotel London Excel,8.2,"Newham, London",Very Good ,"2,339 reviews",Price 588 zł,10.5 km from center,Standard Room with 1 Queen size Bed,4,,
+106,Streatham Common Bed & Breakfast,9.4,"Lambeth, London",Wonderful ,417 reviews,Price 490 zł,10 km from center,Triple Room with Private Bathroom,3,Breakfast included,
+107,The Brewers Inn,8.8,"Wandsworth, London",Excellent ,585 reviews,Price 703 zł,7.1 km from center,Small Double Room,0,Breakfast included,
+108,Guilford House Hotel,4.7,"Camden, London",Review score ,502 reviews,Price 464 zł,2 km from center,Single Room,2,Breakfast included,
+109,Stylotel,7.7,"Westminster Borough, London",Good ,"1,513 reviews",Price 703 zł,3.3 km from center,Single Styloroom,3,Breakfast included,Location 9.3
+110,The Corner London City,8.1,"Tower Hamlets, London",Very Good ,"3,643 reviews","Original price 1,015 zł. Current price 761 zł.",4.3 km from center,Standard Double Room without Window,3,,
+111,Novotel London Bridge,8.5,"Southwark, London",Very Good ,"2,062 reviews","Price 1,030 zł",2.3 km from center,Superior Room,4,,
+112,The Pilgrm,7.8,"Westminster Borough, London",Good ,"1,938 reviews",Price 648 zł,3.4 km from center,Bunk Bed Room,4,,
+113,Best Western Mornington Hotel Hyde Park,7.5,"Westminster Borough, London",Good ,"2,617 reviews",Price 599 zł,3.5 km from center,Single Room,4,,
+114,Wombat's City Hostel London,8.3,"Tower Hamlets, London",Very Good ,"3,965 reviews",Original price 269 zł. Current price 216 zł.,4.1 km from center,Bed in 8-Bed Mixed Dormitory Room,0,,
+115,citizenM London Shoreditch,8.8,"Hackney, London",Excellent ,"2,589 reviews",Price 948 zł,3.9 km from center,King Room,4,,Location 9.3
+116,CG Kensington,8.3,"Kensington and Chelsea, London",Very Good ,"1,183 reviews",Price 594 zł,4.6 km from center,Small Double Room,4,,Location 9.5
+117,The Bridge Hotel,7.3,"Southwark, London",Good ,"1,987 reviews",Price 512 zł,2 km from center,Single Room with Shared Bathroom,3,,
+118,citizenM London Bankside,8.7,"Southwark, London",Excellent ,"2,647 reviews",Price 921 zł,2.1 km from center,King Room,4,,
+119,citizenM Tower of London,8.8,"City of London, London",Excellent ,"5,476 reviews",Price 975 zł,3.5 km from center,King Room,4,,Location 9.6
+120,The Grafton Arms Pub & Rooms,9.1,"Camden, London",Wonderful ,316 reviews,"Price 1,320 zł",1.9 km from center,Deluxe Double Room,4,,Location 9.5
+121,1 Craven Hill Gardens,8.1,"Westminster Borough, London",Very Good ,"2,345 reviews",Price 567 zł,3.8 km from center,Double Room,4,,
+122,Park Grand Paddington Court,6.9,"Westminster Borough, London",Review score ,"3,785 reviews",Price 531 zł,3.7 km from center,Deluxe Single Room,4,,
+123,The Wimbledon Hotel,6.6,"Wimbledon, London",Review score ,422 reviews,Price 492 zł,11.8 km from center,Executive Double Room,4,,
+124,Novotel London Wembley,8.4,"Brent, London",Very Good ,"3,858 reviews",Price 697 zł,12.2 km from center,Superior Queen Room with Sofa,4,,Location 9.3
+125,Brick Lane Guest House,7.4,"Tower Hamlets, London",Good ,233 reviews,Price 561 zł,4.2 km from center,Budget Double Room,0,,
+126,"St. James' Court, A Taj Hotel, London",8.6,"Westminster Borough, London",Excellent ,"3,599 reviews","Original price 1,520 zł. Current price 1,368 zł.",1.2 km from center,Classic Room,4,,Location 9.4
+127,Grange Clarendon Hotel,7.0,"Camden, London",Good ,"1,361 reviews","Price 1,177 zł",1.4 km from center,Single Room,4,,
+128,DoubleTree by Hilton Hotel London - Tower of London,7.7,"City of London, London",Good ,"10,848 reviews","Price 1,046 zł",3.4 km from center,Queen Room,4,,
+129,The Distillery,7.8,"Kensington and Chelsea, London",Good ,143 reviews,Price 749 zł,5.4 km from center,Standard Double Room,0,,Location 9.3
+130,The Resident Victoria,9.1,"Westminster Borough, London",Wonderful ,"1,398 reviews","Price 1,209 zł",1.4 km from center,Small Double Room,4,,Location 9.7
+131,Arosfa Hotel London by Compass Hospitality,8.0,"Camden, London",Very Good ,837 reviews,"Price 1,035 zł",1.7 km from center,Double Room,3,,Location 9.3
+132,Millennium Gloucester Hotel London,7.3,"Kensington and Chelsea, London",Good ,"8,116 reviews",Price 824 zł,4.1 km from center,Deluxe Double Room,4,,
+133,Coach & Horses Hotel,8.8,"Mortlake, London",Excellent ,787 reviews,Price 556 zł,11.3 km from center,Single Room,0,,Location 9.5
+134,"Knightsbridge Hotel, Firmdale Hotels",8.8,"Kensington and Chelsea, London",Excellent ,248 reviews,"Price 1,700 zł",2.7 km from center,Single Room,5,,Location 9.6
+135,"Holiday Inn Express London - ExCel, an IHG Hotel",8.1,"Newham, London",Very Good ,"3,877 reviews",Price 551 zł,11.9 km from center,Standard Double or Twin Room,3,Breakfast included,
+136,Courthouse Hotel Shoreditch,6.8,"Hackney, London",Review score ,669 reviews,"Price 1,444 zł",4 km from center,Dalston King,5,,
+137,The Goodenough Hotel London,8.2,"Camden, London",Very Good ,693 reviews,Price 878 zł,2.1 km from center,Single Room with Courtyard View,4,,
+138,"The Hoxton, Shoreditch",8.4,"Hackney, London",Very Good ,"1,540 reviews","Price 1,220 zł",3.7 km from center,Cozy Double,4,,
+139,Prince Arthur,7.2,"Camden, London",Good ,545 reviews,Price 376 zł,2.5 km from center,Single Room with Shared Bathroom,0,,
+140,DoubleTree by Hilton London Victoria,7.8,"Westminster Borough, London",Good ,"2,432 reviews",Price 975 zł,1.9 km from center,Double Room,4,,
+141,Hilton London Canary Wharf,8.5,"Tower Hamlets, London",Very Good ,"2,906 reviews",Price 850 zł,7.6 km from center,Double Guest Room,4,,
+142,Hyatt Regency London Stratford,8.1,"Newham, London",Very Good ,"1,391 reviews","Price 1,084 zł",9.2 km from center,King Room,4,,
+143,The Laslett,8.8,"Kensington and Chelsea, London",Excellent ,469 reviews,"Price 1,465 zł",4.8 km from center,Single Room,5,,Location 9.5
+144,Studios2Let,7.7,"Camden, London",Good ,"5,463 reviews",Price 725 zł,2.2 km from center,Studio with Terrace,3,,Location 9.3
+145,"100 Queen’s Gate Hotel London, Curio Collection by Hilton",7.8,"Kensington and Chelsea, London",Good ,"2,397 reviews",Price 937 zł,3.9 km from center,Superior Queen Room,5,,
+146,Deluxe Homestay near Tottenham Hotspur Stadium,8.5,London,Very Good ,69 reviews,Price 368 zł,10.9 km from center,Double Room,0,,
+147,The Chamberlain,8.5,"City of London, London",Very Good ,"4,215 reviews","Price 1,172 zł",3.6 km from center,Deluxe King Room,4,Breakfast included,
+148,Euro Hotel,6.4,"Hammersmith and Fulham, London",Review score ,"1,168 reviews",Price 430 zł,6.6 km from center,Single Room,0,,
+149,"Holiday Inn London West, an IHG Hotel",7.9,"Acton, London",Good ,"2,423 reviews",Price 606 zł,9.5 km from center,Twin Room,4,,
+150,Strathmore Hotel,7.6,"Kensington and Chelsea, London",Good ,"1,860 reviews","Original price 1,287 zł. Current price 901 zł.",3.9 km from center,Standard Single Room,4,,
+151,DoubleTree by Hilton Hotel London - Tower of London,7.7,"City of London, London",Good ,"10,848 reviews","Price 1,046 zł",3.4 km from center,Queen Room,4,,
+152,Prince Arthur,7.2,"Camden, London",Good ,545 reviews,Price 376 zł,2.5 km from center,Single Room with Shared Bathroom,0,,
+153,The Waterman's Arms,8.5,"Tower Hamlets, London",Very Good ,306 reviews,Price 479 zł,8.6 km from center,Standard Double Room,0,,
+154,Croft Court Hotel,7.9,"Golders Green, London",Good ,651 reviews,Price 539 zł,9.2 km from center,Single Room,0,,
+155,The Z Hotel Piccadilly,8.0,"Westminster Borough, London",Very Good ,"6,692 reviews",Price 817 zł,350 m from center,Double Room,0,,Location 9.6
+156,Sonder The Henry,8.3,"Westminster Borough, London",Very Good ,791 reviews,"Original price 1,253 zł. Current price 1,065 zł.",3.9 km from center,Single Room,4,,
+157,The Z Hotel Shoreditch,7.9,"Islington, London",Good ,"4,881 reviews",Price 681 zł,3.5 km from center,Queen Room without Window,0,,
+158,Mimi's Hotel Soho,7.9,"Westminster Borough, London",Good ,"2,189 reviews",Price 921 zł,0.8 km from center,Small Double Room without Window,4,,Location 9.5
+159,Book A Bed Hostels,6.5,"Lewisham, London",Review score ,731 reviews,Price 95 zł,7.9 km from center,Bed in 12-Bed Mixed Dormitory Room,0,,
+160,The 29 London,6.7,"Westminster Borough, London",Review score ,"2,795 reviews",Price 632 zł,2.2 km from center,Single Room with private toilet and shower,3,,
+161,Hilton London Canary Wharf,8.5,"Tower Hamlets, London",Very Good ,"2,906 reviews",Price 850 zł,7.6 km from center,Double Guest Room,4,,
+162,The Villa Kensington,7.6,"Kensington and Chelsea, London",Good ,"1,223 reviews",Price 439 zł,4.3 km from center,Single Room,3,,
+163,"100 Queen’s Gate Hotel London, Curio Collection by Hilton",7.8,"Kensington and Chelsea, London",Good ,"2,397 reviews",Price 937 zł,3.9 km from center,Superior Queen Room,5,,
+164,Pax Lodge Hostel,8.3,"Camden, London",Very Good ,417 reviews,Price 136 zł,5.8 km from center,Bed in 7-Bed Female Dormitory Room,0,,
+165,London Bridge Hotel,8.6,"Southwark, London",Excellent ,"1,597 reviews","Price 1,002 zł",2.7 km from center,Standard Single Room ,4,,Location 9.5
+166,DoubleTree by Hilton London Chelsea,7.8,"Hammersmith and Fulham, London",Good ,"1,561 reviews",Price 654 zł,5.4 km from center,Double Guest Room,4,,
+167,Courtyard by Marriott London City Airport,8.6,"Newham, London",Excellent ,"1,589 reviews",Price 597 zł,11.8 km from center,"Guest Room, 1 King",4,,
+168,"Holiday Inn Express Royal Docks, an IHG Hotel",7.7,"Newham, London",Good ,"2,914 reviews",Price 545 zł,9.6 km from center,Double Room with Sofa Bed,3,Breakfast included,
+169,Gainsborough Hotel,7.9,"Kensington and Chelsea, London",Good ,"1,725 reviews",Price 539 zł,3.7 km from center,Single Room,4,,Location 9.4
+170,Park Plaza Westminster Bridge London,8.3,"Lambeth, London",Very Good ,"19,941 reviews","Price 1,198 zł",1 km from center,Superior Double Room with Internal View,4,,Location 9.5
+171,The Academy - Small Luxury Hotels of the World,8.3,"Camden, London",Very Good ,"1,538 reviews","Price 1,082 zł",1.5 km from center,Townhouse Single Room,5,Breakfast included,Location 9.3
+172,The Griffin Belle Hotel Vauxhall,8.9,"Lambeth, London",Excellent ,866 reviews,Price 735 zł,2.8 km from center,Single Room with Shower,0,Breakfast included,
+173,"Holiday Inn London West, an IHG Hotel",7.9,"Acton, London",Good ,"2,423 reviews",Price 606 zł,9.5 km from center,Twin Room,4,,
+174,Nobu Hotel London Portman Square,8.5,"Westminster Borough, London",Very Good ,906 reviews,"Price 2,283 zł",2.3 km from center,Superior King Room,5,,Location 9.4
+175,Britannia International Hotel Canary Wharf,5.8,"Tower Hamlets, London",Review score ,"13,934 reviews",Price 485 zł,7.2 km from center,Standard Double Room,4,,
+176,Blue Bells Hotel,7.8,"Kensington and Chelsea, London",Good ,"1,656 reviews",Price 937 zł,4.6 km from center,Quadruple Room,3,Breakfast included,
+177,Apex Temple Court Hotel,8.9,"City of London, London",Excellent ,"3,455 reviews","Original price 1,247 zł. Current price 998 zł.",1.5 km from center,City King Room,4,,
+178,"Lost Property St Pauls London, Curio Collection By Hilton",8.5,"City of London, London",Very Good ,126 reviews,"Price 1,068 zł",2 km from center,Queen Guest Room,4,,Location 9.4
+179,Doubletree By Hilton London - Greenwich,8.3,"Greenwich, London",Very Good ,"2,290 reviews",Price 643 zł,8.3 km from center,Single Guest Room,4,,
+180,"Radisson Blu Edwardian Berkshire Hotel, London",8.0,"Westminster Borough, London",Very Good ,"2,998 reviews","Price 1,014 zł",1.7 km from center,Single Room,4,,Location 9.5
+181,European Hotel,5.8,"Camden, London",Review score ,"2,219 reviews",Price 381 zł,2.5 km from center,Basic Single Room with Shared Bathroom,0,,
+182,The 29 London,6.7,"Westminster Borough, London",Review score ,"2,795 reviews",Price 634 zł,2.2 km from center,Single Room with private toilet and shower,3,,
+183,The Z Hotel Victoria,7.9,"Westminster Borough, London",Good ,"5,973 reviews",Price 599 zł,1.8 km from center,Double Room without Window,0,,Location 9.5
+184,The Windmill On The Common,8.5,"Lambeth, London",Very Good ,769 reviews,Price 757 zł,5.7 km from center, Double Room,3,,
+185,Dover Castle Hostel,7.3,"Southwark, London",Good ,"1,047 reviews",Price 175 zł,2.5 km from center,Bed in 10-Bed Mixed Dormitory Room,0,,
+186,"The Dixon, Tower Bridge, Autograph Collection",8.8,"Southwark, London",Excellent ,"1,238 reviews",Price 854 zł,3.6 km from center,Twin Room,4,,Location 9.4
+187,The Dirty Liquor Hotel at The Cherry,8.0,"Tower Hamlets, London",Very Good ,512 reviews,Price 524 zł,6.6 km from center,Family Room with Private Bathroom,0,,
+188,Arbnb at Comfy Sleep Guest House Self Catering Private Bedrooms,7.4,"Tower Hamlets, London",Good ,125 reviews,Price 272 zł,5.3 km from center,Single Room,0,,
+189,DoubleTree by Hilton London - Hyde Park,7.8,"Kensington and Chelsea, London",Good ,"1,904 reviews",Price 855 zł,4.4 km from center,Single Room,4,,
+190,My Place Hotel,6.1,"Kensington and Chelsea, London",Review score ,554 reviews,Original price 654 zł. Current price 490 zł.,4.9 km from center,Standard Single Room,3,Breakfast included,
+191,Citadines Barbican London,8.2,"Islington, London",Very Good ,"1,388 reviews",Price 877 zł,2.6 km from center,Classic Double or Twin Room,4,,
+192,Rockwell East-Tower Bridge,8.4,"Tower Hamlets, London",Very Good ,"1,569 reviews",Price 844 zł,3.8 km from center,Double Studio,4,,
+193,Thistle Trafalgar Square,8.1,"Westminster Borough, London",Very Good ,"2,391 reviews","Price 1,029 zł",300 m from center,Standard Double Room,4,,Location 9.7
+194,Vintry & Mercer,9.4,"City of London, London",Wonderful ,"2,937 reviews","Original price 1,879 zł. Current price 1,504 zł.",2.4 km from center,Standard Double Room,5,,Location 9.5
+195,London Hilton on Park Lane,7.9,"Westminster Borough, London",Good ,"1,271 reviews","Price 1,858 zł",1.6 km from center,Twin Guestroom,5,,
+196,Safestay London Elephant & Castle,7.1,"Southwark, London",Good ,"3,314 reviews",Price 256 zł,2.8 km from center,Bed in 8-Bed Dormitory Room Ensuite,4,,
+197,Hilton London Kensington Hotel,7.0,"Kensington and Chelsea, London",Good ,"2,662 reviews",Price 648 zł,6 km from center,Double Hilton Guestroom,4,,
+198,Pestana Chelsea Bridge Hotel,8.1,"Wandsworth, London",Very Good ,"2,585 reviews",Price 883 zł,3.2 km from center,Deluxe King Room,4,,
+199,ibis London Blackfriars,8.0,"Southwark, London",Very Good ,"4,045 reviews",Price 754 zł,1.6 km from center,Standard Double Room,3,,
+200,Generator London,7.0,"Camden, London",Good ,"5,199 reviews",Price 357 zł,2.1 km from center,Bed in 10 + Mixed Dormitory Room,3,,
+201,"Hotel Indigo London Tower Hill, an IHG Hotel",8.5,"City of London, London",Very Good ,307 reviews,Price 921 zł,3.6 km from center,Superior Room,4,,
+202,Best Western Swiss Cottage Hotel,7.9,"Camden, London",Good ,"1,491 reviews",Original price 854 zł. Current price 798 zł.,5.2 km from center,Single Room,3,,
+203,The William IV,8.1,"Brent, London",Very Good ,681 reviews,Original price 829 zł. Current price 775 zł.,6.7 km from center,Small Twin Room,3,Breakfast included,
+204,Hampton By Hilton London Docklands,8.4,"Newham, London",Very Good ,"4,037 reviews",Price 648 zł,11.7 km from center,Queen Room,3,Breakfast included,
+205,Pullman London St Pancras,8.5,"Camden, London",Very Good ,"3,071 reviews","Price 1,284 zł",2.4 km from center,Classic King Room,4,,Location 9.4
+206,Balham Lodge,8.4,"Wandsworth, London",Very Good ,953 reviews,Original price 381 zł. Current price 357 zł.,8 km from center,Standard Single Room,3,,
+207,Trebovir Hotel,7.7,"Kensington and Chelsea, London",Good ,"3,107 reviews",Original price 537 zł. Current price 502 zł.,4.9 km from center,Single Room,3,Breakfast included,
+208,Comfort Inn London - Westminster,5.8,"Westminster Borough, London",Review score ,"1,558 reviews",Original price 366 zł. Current price 291 zł.,2 km from center,Single Room with Private Bathroom,3,,
+209,Hotel Cavendish,6.3,"Camden, London",Review score ,"1,643 reviews",Price 515 zł,1.7 km from center,Cabin Single Room,4,Breakfast included,
+210,Egerton House,9.3,"Kensington and Chelsea, London",Wonderful ,482 reviews,"Original price 2,424 zł. Current price 2,040 zł.",3 km from center,Deluxe Queen Room,5,,Location 9.7
+211,Assaha Hyde Park Apartments,6.9,"Westminster Borough, London",Review score ,"1,332 reviews",Price 417 zł,3.3 km from center,Single Room,3,,
+212,Angus Hotel,7.7,"Camden, London",Good ,"1,752 reviews",Price 534 zł,2.4 km from center,Single Room,2,,Location 9.3
+213,Lords Hotel,6.5,"Westminster Borough, London",Review score ,"2,336 reviews",Price 352 zł,4.5 km from center,Superior Single Room,0,Breakfast included,
+214,The Waldorf Hilton,7.9,"Westminster Borough, London",Good ,"2,103 reviews","Price 1,781 zł",0.8 km from center,Queen Hilton Guest Room,5,,Location 9.5
+215,The Ned,8.7,"City of London, London",Excellent ,811 reviews,"Original price 2,315 zł. Current price 1,852 zł.",2.7 km from center,Queen Room - Disability Access,5,,
+216,Best Western London Highbury,7.8,"Hackney, London",Good ,"1,911 reviews",Price 368 zł,7 km from center,Single Room,3,,
+217,Hilton London Paddington,7.3,"Westminster Borough, London",Good ,"2,501 reviews",Price 926 zł,3.5 km from center,Double Guest Room,4,,
+218,Corinthia London,9.3,"Westminster Borough, London",Wonderful ,693 reviews,"Price 3,955 zł",250 m from center,Superior King Room,5,,Location 9.5
+219,Innbox Hotel St. Johns Wood,6.9,"Westminster Borough, London",Review score ,38 reviews,Original price 953 zł. Current price 891 zł.,4.1 km from center,Standard Queen Room,0,,
+220,Peckham Rooms Hotel,7.0,"Southwark, London",Good ,"1,000 reviews",Price 343 zł,5.8 km from center,Single Room with Bathroom,0,,
+221,The Kings Arms,9.4,"Westminster Borough, London",Wonderful ,642 reviews,"Price 1,198 zł",1.5 km from center,Deluxe Room,0,Breakfast included,Location 9.8
+222,Dukes London,8.3,"Westminster Borough, London",Very Good ,318 reviews,"Price 2,182 zł",0.8 km from center,Superior Double Room,5,,Location 9.7
+223,Croft Court Hotel,7.9,"Golders Green, London",Good ,651 reviews,Original price 539 zł. Current price 504 zł.,9.2 km from center,Single Room,0,,
+224,Earls Court Garden Hotel,4.0,"Kensington and Chelsea, London",Review score ,"1,509 reviews",Original price 409 zł. Current price 382 zł.,4.7 km from center,Comfort Double Room,2,,
+225,Novotel London Paddington,8.1,"Westminster Borough, London",Very Good ,"2,030 reviews",Price 863 zł,4 km from center,Superior Queen Room with Sofa,4,,
+226,Best Western Swiss Cottage Hotel,7.9,"Camden, London",Good ,"1,491 reviews",Original price 854 zł. Current price 798 zł.,5.2 km from center,Single Room,3,,
+227,The William IV,8.1,"Brent, London",Very Good ,681 reviews,Original price 829 zł. Current price 775 zł.,6.7 km from center,Small Twin Room,3,Breakfast included,
+228,Hampton By Hilton London Docklands,8.4,"Newham, London",Very Good ,"4,037 reviews",Price 648 zł,11.7 km from center,Queen Room,3,Breakfast included,
+229,Pullman London St Pancras,8.5,"Camden, London",Very Good ,"3,071 reviews","Price 1,284 zł",2.4 km from center,Classic King Room,4,,Location 9.4
+230,Balham Lodge,8.4,"Wandsworth, London",Very Good ,953 reviews,Original price 381 zł. Current price 357 zł.,8 km from center,Standard Single Room,3,,
+231,Trebovir Hotel,7.7,"Kensington and Chelsea, London",Good ,"3,107 reviews",Original price 537 zł. Current price 502 zł.,4.9 km from center,Single Room,3,Breakfast included,
+232,Comfort Inn London - Westminster,5.8,"Westminster Borough, London",Review score ,"1,558 reviews",Original price 366 zł. Current price 291 zł.,2 km from center,Single Room with Private Bathroom,3,,
+233,Hotel Cavendish,6.3,"Camden, London",Review score ,"1,643 reviews",Price 515 zł,1.7 km from center,Cabin Single Room,4,Breakfast included,
+234,Egerton House,9.3,"Kensington and Chelsea, London",Wonderful ,482 reviews,"Original price 2,424 zł. Current price 2,040 zł.",3 km from center,Deluxe Queen Room,5,,Location 9.7
+235,Assaha Hyde Park Apartments,6.9,"Westminster Borough, London",Review score ,"1,332 reviews",Price 417 zł,3.3 km from center,Single Room,3,,
+236,Angus Hotel,7.7,"Camden, London",Good ,"1,752 reviews",Price 534 zł,2.4 km from center,Single Room,2,,Location 9.3
+237,Lords Hotel,6.5,"Westminster Borough, London",Review score ,"2,336 reviews",Price 352 zł,4.5 km from center,Superior Single Room,0,Breakfast included,
+238,The Waldorf Hilton,7.9,"Westminster Borough, London",Good ,"2,103 reviews","Price 1,781 zł",0.8 km from center,Queen Hilton Guest Room,5,,Location 9.5
+239,The Ned,8.7,"City of London, London",Excellent ,811 reviews,"Original price 2,315 zł. Current price 1,852 zł.",2.7 km from center,Queen Room - Disability Access,5,,
+240,Best Western London Highbury,7.8,"Hackney, London",Good ,"1,911 reviews",Price 368 zł,7 km from center,Single Room,3,,
+241,Hilton London Paddington,7.3,"Westminster Borough, London",Good ,"2,501 reviews",Price 926 zł,3.5 km from center,Double Guest Room,4,,
+242,Corinthia London,9.3,"Westminster Borough, London",Wonderful ,693 reviews,"Price 3,955 zł",250 m from center,Superior King Room,5,,Location 9.5
+243,Innbox Hotel St. Johns Wood,6.9,"Westminster Borough, London",Review score ,38 reviews,Original price 953 zł. Current price 891 zł.,4.1 km from center,Standard Queen Room,0,,
+244,The Kings Arms,9.4,"Westminster Borough, London",Wonderful ,642 reviews,"Price 1,198 zł",1.5 km from center,Deluxe Room,0,Breakfast included,Location 9.8
+245,Dukes London,8.3,"Westminster Borough, London",Very Good ,318 reviews,"Price 2,182 zł",0.8 km from center,Superior Double Room,5,,Location 9.7
+246,The Eaton Townhouse,7.6,"Westminster Borough, London",Good ,598 reviews,Original price 877 zł. Current price 656 zł.,1.7 km from center,Deluxe Double Room,3,,
+247,Croft Court Hotel,7.9,"Golders Green, London",Good ,651 reviews,Original price 539 zł. Current price 504 zł.,9.2 km from center,Single Room,0,,
+248,Earls Court Garden Hotel,4.0,"Kensington and Chelsea, London",Review score ,"1,509 reviews",Original price 409 zł. Current price 382 zł.,4.7 km from center,Comfort Double Room,2,,
+249,Novotel London Paddington,8.1,"Westminster Borough, London",Very Good ,"2,030 reviews",Price 863 zł,4 km from center,Superior Queen Room with Sofa,4,,
+250,The Premier Notting Hill,7.3,"Kensington and Chelsea, London",Good ,"4,278 reviews",Original price 539 zł. Current price 504 zł.,4.5 km from center,Deluxe Single Room,4,,
+251,NOX Waterloo,8.2,"Lambeth, London",Very Good ,"5,190 reviews",Price 703 zł,1.3 km from center,"Double Studio (Lower Ground Floor, No Windows)",4,,
+252,Studios2Let - North Gower,7.5,"Camden, London",Good ,"1,286 reviews",Price 534 zł,2.3 km from center,Small Studio,3,,
+253,72QT,8.4,"Westminster Borough, London",Very Good ,"1,179 reviews",Price 490 zł,4 km from center,Single Room with Shared Bathroom,2,Breakfast included,Location 9.5
+254,City Sleeper at Royal National Hotel,8.1,"Camden, London",Very Good ,122 reviews,Price 953 zł,1.8 km from center,Standard Double Room,4,,
+255,London Marriott Hotel Canary Wharf,8.4,"Tower Hamlets, London",Very Good ,"1,997 reviews",Price 954 zł,7.4 km from center,"Deluxe Room, Guest room, 1 King",5,,
+256,Boutique Apartments,8.3,"Southwark, London",Very Good ,286 reviews,Price 599 zł,2.9 km from center,Studio 1,4,,
+257,Park Avenue Bayswater Inn Hyde Park,6.6,"Westminster Borough, London",Review score ,"4,919 reviews",Price 606 zł,4.5 km from center,Single Room,4,,
+258,"Holiday Inn London Kensington High St., an IHG Hotel",7.1,"Kensington and Chelsea, London",Good ,"6,340 reviews",Price 746 zł,4.6 km from center,Standard Room,4,,
+259,"Hux Hotel, Kensington",8.3,"Kensington and Chelsea, London",Very Good ,871 reviews,"Price 1,062 zł",4.2 km from center,Petite Double Room,4,,Location 9.3
+260,Admiral Hardy,8.7,"Greenwich, London",Excellent ,447 reviews,Price 812 zł,8.7 km from center,Double Room,0,,Location 9.6
+261,The Hari London,8.9,"Kensington and Chelsea, London",Excellent ,680 reviews,"Price 2,349 zł",2.3 km from center,Superior King Room,5,,Location 9.6
+262,Thistle Bloomsbury Park,6.9,"Camden, London",Review score ,"1,023 reviews",Price 751 zł,1.5 km from center,Standard Single Room,3,,
+263,Wellington Hotel by Blue Orchid,8.2,"Westminster Borough, London",Very Good ,"2,223 reviews",Price 975 zł,1.6 km from center,Superior Single Room,4,,
+264,Hotel Olympia,4.0,"Kensington and Chelsea, London",Review score ,"1,711 reviews",Price 240 zł,5 km from center,Single Room,3,,
+265,Swinton Hotel,7.2,"Camden, London",Good ,"2,242 reviews",Price 583 zł,2.6 km from center,Single Room,2,,
+266,ibis London Earls Court,7.3,"Hammersmith and Fulham, London",Good ,"5,349 reviews",Price 681 zł,5.5 km from center,Standard Double Room,3,,
+267,Sidney Hotel London-Victoria,7.8,"Westminster Borough, London",Good ,"8,023 reviews",Price 572 zł,2 km from center,Single Room,3,,
+268,The Gresham Hotel,6.9,"Westminster Borough, London",Review score ,"1,655 reviews",Original price 648 zł. Current price 583 zł.,3.2 km from center,Standard Single Room,3,Breakfast included,
+269,ibis London Shepherds Bush - Hammersmith,8.0,"Hammersmith and Fulham, London",Very Good ,"1,585 reviews",Price 567 zł,6.4 km from center,Double Room,3,,
+270,The Royal Horseguards,8.3,"Westminster Borough, London",Very Good ,"2,736 reviews","Original price 1,961 zł. Current price 1,471 zł.",250 m from center,Standard Single Room,5,,Location 9.6
+271,Ashburn Hotel,8.3,"Kensington and Chelsea, London",Very Good ,"1,009 reviews",Price 878 zł,4.2 km from center,Queen Double Room,4,,Location 9.3
+272,Gainsborough Hotel,7.9,"Kensington and Chelsea, London",Good ,"1,725 reviews",Price 539 zł,3.7 km from center,Single Room,4,,Location 9.4
+273,St Athans Hotel,7.3,"Camden, London",Good ,"1,305 reviews",Price 485 zł,2 km from center,Single Room with Shared Bathroom,2,,
+274,Conrad London St James,8.8,"Westminster Borough, London",Excellent ,690 reviews,"Price 1,847 zł",1 km from center,King Deluxe Room,5,,Location 9.3
+275,Fitzrovia Hotel,7.8,"Westminster Borough, London",Good ,"2,668 reviews","Original price 1,151 zł. Current price 1,001 zł.",1.9 km from center,Superior Double Room,4,,
+276,Vintry & Mercer,9.4,"City of London, London",Wonderful ,"2,937 reviews","Original price 1,879 zł. Current price 1,504 zł.",2.4 km from center,Standard Double Room,5,,Location 9.5
+277,"The Hoxton, Holborn",8.6,"Camden, London",Excellent ,"1,416 reviews","Price 1,275 zł",1.1 km from center,Shoebox,4,,Location 9.5
+278,Assembly Covent Garden,8.0,"Westminster Borough, London",Very Good ,"3,216 reviews","Price 1,079 zł",350 m from center,Superior Double Room without Windows,3,,Location 9.7
+279,Kings Cross Inn Hotel,6.4,"Camden, London",Review score ,"5,322 reviews",Price 630 zł,2.6 km from center,Single Room,3,,
+280,Balham Lodge,8.4,"Wandsworth, London",Very Good ,953 reviews,Price 381 zł,8 km from center,Standard Single Room,3,,
+281,DoubleTree by Hilton London – Docklands Riverside,7.9,"Southwark, London",Good ,"4,619 reviews",Price 926 zł,6.5 km from center,Double Guest Room,4,,
+282,Hard Rock Hotel London,8.3,"Westminster Borough, London",Very Good ,"4,096 reviews","Price 1,182 zł",2.3 km from center,Classic Single,4,,Location 9.5
+283,ibis London Blackfriars,8.0,"Southwark, London",Very Good ,"4,045 reviews",Price 754 zł,1.6 km from center,Standard Double Room,3,,
+284,Staycity Aparthotels Greenwich High Road,8.5,"Greenwich, London",Very Good ,"1,157 reviews",Price 599 zł,8.3 km from center,Studio (2 Adults),3,,
+285,"Holiday Inn Express Southwark, an IHG Hotel",8.2,"Southwark, London",Very Good ,"3,343 reviews",Price 926 zł,1.8 km from center,Double Room - Disability Access,3,Breakfast included,
+286,The Montague On The Gardens,9.1,"Camden, London",Wonderful ,"1,975 reviews","Price 1,335 zł",1.4 km from center,Classic Single Room,4,,Location 9.6
+287,City Sleeper at Royal National Hotel,8.1,"Camden, London",Very Good ,122 reviews,Price 953 zł,1.8 km from center,Standard Double Room,4,,
+288,Sonder Edgware Road,7.3,"Westminster Borough, London",Good ,506 reviews,"Original price 1,160 zł. Current price 986 zł.",3.1 km from center,Single Room,3,,
+289,Wellington Hotel by Blue Orchid,8.2,"Westminster Borough, London",Very Good ,"2,223 reviews",Price 975 zł,1.6 km from center,Superior Single Room,4,,
+290,Blakemore Hyde Park,8.2,"Westminster Borough, London",Very Good ,"8,245 reviews","Original price 1,126 zł. Current price 1,036 zł.",3.9 km from center,Club Double Room,4,,
+291,Point A Hotel London Paddington,8.1,"Westminster Borough, London",Very Good ,"3,665 reviews",Price 654 zł,3.2 km from center,Double Room  - No Window,3,,
+292,London - Wembley International Hotel,6.7,"Brent, London",Review score ,"3,754 reviews",Price 304 zł,12.3 km from center,Single Room,3,,
+293,Park Avenue Baker Street,6.9,"Westminster Borough, London",Review score ,"4,121 reviews","Price 1,103 zł",3 km from center,Deluxe Single Room,4,,
+294,Park Avenue Bayswater Inn Hyde Park,6.6,"Westminster Borough, London",Review score ,"4,919 reviews",Price 606 zł,4.5 km from center,Single Room,4,,
+295,Sloane Square Hotel,7.8,"Kensington and Chelsea, London",Good ,"1,262 reviews","Price 1,062 zł",2.6 km from center,Single Room,4,,Location 9.5
+296,The Bridge Pub & Rooms,8.9,"Barnes, London",Excellent ,558 reviews,Price 817 zł,7.6 km from center,Double Room with Private Bathroom,0,,
+297,Canopy by Hilton London City,8.8,"City of London, London",Excellent ,919 reviews,Price 932 zł,3.6 km from center,Queen Room,4,,
+298,Euro Hotel,6.4,"Hammersmith and Fulham, London",Review score ,"1,168 reviews",Price 430 zł,6.6 km from center,Single Room,0,,
+299,Thistle London Hyde Park Kensington Gardens,7.3,"Westminster Borough, London",Good ,"1,153 reviews",Price 752 zł,3.9 km from center,Standard Double Room,4,,
+300,Hotel Xanadu,8.1,"Ealing, London",Very Good ,"1,102 reviews",Price 692 zł,12.3 km from center,Double Room,4,Breakfast included,
+301,Islington Inn,6.1,"Islington, London",Review score ,622 reviews,Price 388 zł,4.9 km from center,Single Room,3,,
+302,NOX West End Lane II,8.0,"Camden, London",Very Good ,411 reviews,Price 583 zł,6.5 km from center,Double Studio,3,,
+303,Royal Eagle Hotel,6.2,"Westminster Borough, London",Review score ,"4,543 reviews",Original price 866 zł. Current price 736 zł.,3.6 km from center,Single Room,3,,
+304,Moxy London Excel,8.2,"Newham, London",Very Good ,"2,371 reviews",Price 518 zł,11.8 km from center,"Moxy Sleeper, Guest room, 1 Queen",4,,
+305,Park International Hotel,7.6,"Kensington and Chelsea, London",Good ,"2,511 reviews",Price 617 zł,4.4 km from center,Single Room,4,,
+306,The Z Hotel Strand,8.6,"Westminster Borough, London",Excellent ,"5,959 reviews",Price 763 zł,450 m from center,Queen Room (Without Window),0,,Location 9.7
+307,Cheshire Hotel Central London,6.6,"Camden, London",Review score ,"1,895 reviews",Original price 703 zł. Current price 597 zł.,1.1 km from center,Single Room,3,,
+308,Grenville House Hotel,4.7,"Camden, London",Review score ,579 reviews,Price 441 zł,2 km from center,Single Room,0,Breakfast included,
+309,Rosewood London,9.1,"Camden, London",Wonderful ,812 reviews,"Price 3,312 zł",1.3 km from center,Deluxe King Room,5,,Location 9.3
+310,DoubleTree by Hilton London Angel Kings Cross,7.9,"Islington, London",Good ,"3,748 reviews",Price 790 zł,3 km from center,Double Room,4,,
+311,Wardonia Hotel,6.8,"Camden, London",Review score ,"1,559 reviews",Price 497 zł,2.4 km from center,Single Room,2,,Location 9.3
+312,The Z Hotel Covent Garden,8.5,"Westminster Borough, London",Very Good ,"7,568 reviews","Price 1,008 zł",450 m from center,Double Room - No Window,0,,Location 9.8
+313,NOX Belsize Park,7.3,"Camden, London",Good ,"1,496 reviews",Original price 480 zł. Current price 432 zł.,5.2 km from center,Double Room for Single Use,3,,
+314,The Collective Canary Wharf,6.9,"Tower Hamlets, London",Review score ,"3,529 reviews",Price 806 zł,7.9 km from center,Classic Studio,4,,
+315,The Crescent Hyde Park,8.3,"Westminster Borough, London",Very Good ,"1,002 reviews",Price 937 zł,3.5 km from center,Compact Double Room,4,,
+316,Balmoral House Hotel,7.7,"Westminster Borough, London",Good ,918 reviews,Price 368 zł,3.3 km from center,Single Room with Shower,2,Breakfast included,
+317,Royal Garden Hotel,7.8,"Kensington and Chelsea, London",Good ,"1,088 reviews","Price 1,111 zł",4.2 km from center,Classic Double,5,,
+318,The Bloomsbury Hotel,8.9,"Camden, London",Excellent ,833 reviews,"Price 1,809 zł",1.1 km from center,Classic Double Room,5,,Location 9.6
+319,Assembly Covent Garden,8.0,"Westminster Borough, London",Very Good ,"3,216 reviews","Price 1,079 zł",350 m from center,Superior Double Room without Windows,3,,Location 9.7
+320,DoubleTree by Hilton London – West End,7.0,"Camden, London",Good ,"2,375 reviews",Price 921 zł,1.5 km from center,Single Room,4,,
+321,Hotel Xanadu,8.1,"Ealing, London",Very Good ,"1,102 reviews",Price 692 zł,12.3 km from center,Double Room,4,Breakfast included,
+322,Point A Kensington Olympia,8.0,"Kensington and Chelsea, London",Very Good ,"3,323 reviews",Price 654 zł,5.1 km from center,Cozy Double Without Window,3,,
+323,JW Marriott Grosvenor House London,8.3,"Westminster Borough, London",Very Good ,831 reviews,"Price 1,983 zł",1.9 km from center,"Deluxe Room, Guest room, 1 Queen",5,,Location 9.3
+324,London Court Hotel,8.0,"Kensington and Chelsea, London",Very Good ,"1,157 reviews",Price 621 zł,4.9 km from center,Compact Single Room with Shared External Bathroom,3,,
+325,Snoozebox Olympic Park,8.0,"Newham, London",Very Good ,"3,651 reviews",Price 485 zł,8.4 km from center,Standard Double Room,0,,
+326,Hilton London Tower Bridge,8.7,"Southwark, London",Excellent ,"2,471 reviews","Price 1,231 zł",3.1 km from center,King Room,4,,Location 9.5
+327,Point A Hotel London Canary Wharf,8.2,"Tower Hamlets, London",Very Good ,"3,207 reviews",Price 545 zł,7.1 km from center,Double Room - No Window,3,,
+328,DoubleTree by Hilton London Ealing,7.7,"Ealing, London",Good ,"1,378 reviews",Price 507 zł,11.3 km from center,Queen Room,4,,
+329,"Radisson Blu Edwardian Hampshire Hotel, London",8.5,"Westminster Borough, London",Very Good ,"2,782 reviews","Price 1,505 zł",300 m from center,Standard Room,5,,Location 9.7
+330,146 Studios,7.7,"Westminster Borough, London",Good ,"1,708 reviews",Price 594 zł,2.9 km from center,Double Studio (Lower Ground Floor),4,,
+331,ibis London Canning Town,8.8,"Newham, London",Excellent ,"3,590 reviews",Price 490 zł,9.5 km from center,Double Room,3,,
+332,Park Plaza London Riverbank,8.2,"Lambeth, London",Very Good ,"8,662 reviews",Price 829 zł,1.8 km from center,Superior Double Room,4,,
+333,The Academy - Small Luxury Hotels of the World,8.3,"Camden, London",Very Good ,"1,538 reviews","Price 1,082 zł",1.5 km from center,Townhouse Single Room,5,Breakfast included,Location 9.3
+334,Mowbray Court Hotel,7.5,"Kensington and Chelsea, London",Good ,"3,875 reviews",Price 627 zł,4.9 km from center,Single Room,3,,
+335,Courtyard by Marriott London City Airport,8.6,"Newham, London",Excellent ,"1,589 reviews",Price 597 zł,11.8 km from center,"Guest Room, 1 King",4,,
+336,Wns Hotel Canary Wharf,5.7,"Tower Hamlets, London",Review score ,286 reviews,Price 436 zł,7.7 km from center,Deluxe Double Room,2,,
+337,London City Airport Hotel,7.5,"Newham, London",Good ,"1,952 reviews",Price 626 zł,12.5 km from center,Double Room,0,,
+338,Fielding Hotel,8.2,"Westminster Borough, London",Very Good ,"3,151 reviews","Original price 1,798 zł. Current price 1,618 zł.",0.8 km from center,Double Room,4,,Location 9.8
+339,"The Clermont London, Charing Cross",8.8,"Westminster Borough, London",Excellent ,"3,608 reviews","Price 1,221 zł",250 m from center,Classic Double Room,4,,Location 9.8
+340,Riverside Rooms & Apartments,7.3,"Newham, London",Good ,246 reviews,Price 703 zł,10.7 km from center,Deluxe Double Room,0,,
+341,NoMad London,9.1,"Westminster Borough, London",Wonderful ,370 reviews,"Price 2,479 zł",0.8 km from center,Classic Room,5,,Location 9.8
+342,Thistle London Hyde Park Kensington Gardens,7.3,"Westminster Borough, London",Good ,"1,153 reviews",Price 718 zł,3.9 km from center,Standard Double Room,4,,
+343,Heeton Concept Hotel - Kensington London,6.9,"Kensington and Chelsea, London",Review score ,"3,768 reviews",Price 496 zł,4.7 km from center,Single Room,3,,
+344,The Gore London - Starhotels Collezione,8.3,"Kensington and Chelsea, London",Very Good ,818 reviews,"Price 1,324 zł",3.7 km from center,Single Room,4,,Location 9.5
+345,George Hotel,6.9,"Camden, London",Review score ,"1,293 reviews",Price 485 zł,2.1 km from center,Single Room - En Suite,3,,
+346,The Station Hotel,8.5,"Lewisham, London",Very Good ,428 reviews,Price 539 zł,10.7 km from center,Double Room,0,,
+347,The Resident Kensington,8.8,"Kensington and Chelsea, London",Excellent ,808 reviews,"Price 1,024 zł",4.6 km from center,Single Room,4,,Location 9.3
+348,The Z Hotel City,7.8,"City of London, London",Good ,"5,625 reviews",Price 681 zł,1.4 km from center,Queen Room without Window,0,,
+349,"Holiday Inn Express London Stratford, an IHG Hotel",8.4,"Newham, London",Very Good ,"4,528 reviews",Price 654 zł,9.1 km from center,Room allocated on arrival,3,Breakfast included,
+350,Book A Bed Hostels,6.5,"Lewisham, London",Review score ,731 reviews,Price 95 zł,7.9 km from center,Bed in 12-Bed Mixed Dormitory Room,0,,
+351,The Gresham Hotel,6.9,"Westminster Borough, London",Review score ,"1,655 reviews",Original price 648 zł. Current price 583 zł.,3.2 km from center,Standard Single Room,3,Breakfast included,
+352,Belsize Park Apartments,7.9,"Camden, London",Good ,152 reviews,Price 790 zł,5.3 km from center,Apartment,0,,
+353,Opulence Boutique Hotel and Spa,4.5,"Westminster Borough, London",Review score ,152 reviews,Price 599 zł,2.4 km from center,Single Room,0,,
+354,TRIBE London Canary Wharf,8.1,"Tower Hamlets, London",Very Good ,508 reviews,Price 736 zł,7.9 km from center,TRIBE Comfort Atrium,4,,
+355,Hotel 55,7.9,"Ealing, London",Good ,"1,729 reviews",Price 539 zł,11.4 km from center,Double Room with Garden View,4,,
+356,Thistle Trafalgar Square,8.1,"Westminster Borough, London",Very Good ,"2,391 reviews","Original price 1,416 zł. Current price 1,062 zł.",300 m from center,Standard Double Room,4,,Location 9.7
+357,Ashburn Hotel,8.3,"Kensington and Chelsea, London",Very Good ,"1,009 reviews",Price 878 zł,4.2 km from center,Queen Double Room,4,,Location 9.3
+358,Seraphine Kensington Olympia,7.2,"Kensington and Chelsea, London",Good ,"2,183 reviews","Price 1,198 zł",4.9 km from center,Standard Double Room,4,Breakfast included,
+359,The Royale Chulan Hyde Park Hotel,7.1,"Westminster Borough, London",Good ,"1,054 reviews",Original price 765 zł. Current price 612 zł.,4.5 km from center,Single Room,3,,
+360,Citadines Holborn - Covent Garden London,7.8,"Camden, London",Good ,"1,646 reviews",Price 981 zł,1.3 km from center,Studio,4,,Location 9.4
+361,Colliers Hotel,6.2,"Westminster Borough, London",Review score ,"1,098 reviews",Price 583 zł,2.1 km from center,Single Room with private toilet and shower,2,,
+362,The Station Hotel,8.5,"Lewisham, London",Very Good ,428 reviews,Price 539 zł,10.7 km from center,Double Room,0,,
+363,JW Marriott Grosvenor House London,8.3,"Westminster Borough, London",Very Good ,831 reviews,"Price 1,983 zł",1.9 km from center,"Deluxe Room, Guest room, 1 Queen",5,,Location 9.3
+364,Doubletree By Hilton London Kensington,7.4,"Kensington and Chelsea, London",Good ,"2,216 reviews",Price 970 zł,4.1 km from center,Double Guest Room,4,,
+365,Treehouse Hotel London,8.7,"Westminster Borough, London",Excellent ,775 reviews,"Price 1,442 zł",1.5 km from center,Double Room,4,,Location 9.6
+366,F18-Awesome Studio for 1 near Paddington-D13,6.9,"Westminster Borough, London",Review score ,53 reviews,Price 518 zł,3.7 km from center,Studio Apartment,0,,
+367,Royal National,4.9,"Camden, London",Review score ,12 reviews,Price 839 zł,1.8 km from center,Standard Double Room,3,,
+368,Hyatt Regency London - The Churchill,8.4,"Westminster Borough, London",Very Good ,"1,335 reviews","Price 1,709 zł",2.2 km from center,King Room,5,,Location 9.4
+369,The Tudor Inn Hotel,6.6,"Westminster Borough, London",Review score ,789 reviews,Price 757 zł,2.1 km from center,Deluxe Double Room,3,,
+370,Best Western Buckingham Palace Rd,7.7,"Westminster Borough, London",Good ,"2,855 reviews","Price 1,901 zł",2.1 km from center,Standard Double Room,3,,
+371,The Mayfair Townhouse - an Iconic Luxury Hotels,8.6,"Westminster Borough, London",Excellent ,815 reviews,"Price 1,389 zł",1.3 km from center,Single Room,5,,Location 9.7
+372,NOX Belsize Park,7.3,"Camden, London",Good ,"1,496 reviews",Original price 480 zł. Current price 432 zł.,5.2 km from center,Double Room for Single Use,3,,
+373,London Hilton on Park Lane,7.9,"Westminster Borough, London",Good ,"1,271 reviews","Price 1,858 zł",1.6 km from center,Twin Guestroom,5,,
+374,Middle Eight - Preferred Hotels and Resorts,8.9,"Camden, London",Excellent ,"1,960 reviews","Price 1,852 zł",1.1 km from center,Classic Chic,5,,Location 9.6
+375,Four Stars Hotel,5.1,"Westminster Borough, London",Review score ,545 reviews,Price 376 zł,3.1 km from center,Double Room with Private Bathroom,2,,
+376,The Brewers Inn,8.8,"Wandsworth, London",Excellent ,585 reviews,Price 703 zł,7.1 km from center,Small Double Room,0,Breakfast included,
+377,Park Plaza Victoria London,8.4,"Westminster Borough, London",Very Good ,"3,045 reviews","Price 1,074 zł",1.7 km from center,Superior Queen Room,4,,Location 9.3
+378,Guilford House Hotel,4.7,"Camden, London",Review score ,502 reviews,Price 464 zł,2 km from center,Single Room,2,Breakfast included,
+379,"Crowne Plaza London - Docklands, an IHG Hotel",7.9,"Newham, London",Good ,"3,363 reviews",Price 875 zł,10.2 km from center,Standard Double Room with Minifridge,4,,
+380,Stylotel,7.7,"Westminster Borough, London",Good ,"1,513 reviews",Price 703 zł,3.3 km from center,Single Styloroom,3,Breakfast included,Location 9.3
+381,"Hotel Indigo London - Kensington, an IHG Hotel",8.2,"Kensington and Chelsea, London",Very Good ,"1,089 reviews",Price 949 zł,4.7 km from center,Standard Double Room,4,,
+382,"Holiday Inn Express London Victoria, an IHG Hotel",7.6,"Westminster Borough, London",Good ,988 reviews,"Price 1,088 zł",2.1 km from center,Double Room,3,Breakfast included,
+383,Lansbury Heritage Hotel,8.8,"Tower Hamlets, London",Excellent ,"1,512 reviews",Price 741 zł,7.8 km from center,Lansbury Classic,4,,
+384,Doubletree By Hilton London Kensington,7.4,"Kensington and Chelsea, London",Good ,"2,216 reviews",Price 970 zł,4.1 km from center,Double Guest Room,4,,
+385,Vilenza Hotel,7.4,"Tower Hamlets, London",Good ,"1,574 reviews",Original price 927 zł. Current price 834 zł.,4.8 km from center,Standard Double Room,0,,
+386,Marlin Canary Wharf,7.4,"Tower Hamlets, London",Good ,583 reviews,Price 812 zł,7.1 km from center,Studio Apartment,4,,
+387,Novotel London Bridge,8.5,"Southwark, London",Very Good ,"2,062 reviews","Price 1,030 zł",2.3 km from center,Superior Room,4,,
+388,Best Western Mornington Hotel Hyde Park,7.5,"Westminster Borough, London",Good ,"2,617 reviews",Price 599 zł,3.5 km from center,Single Room,4,,
+389,Wombat's City Hostel London,8.3,"Tower Hamlets, London",Very Good ,"3,965 reviews",Original price 269 zł. Current price 216 zł.,4.1 km from center,Bed in 8-Bed Mixed Dormitory Room,0,,
+390,Dolphin Hotel,6.8,"Westminster Borough, London",Review score ,931 reviews,Price 466 zł,3.3 km from center,Economy Single Room,3,,
+391,Andaz London Liverpool Street - a Concept by Hyatt,8.8,"City of London, London",Excellent ,702 reviews,"Price 1,389 zł",3.3 km from center,Queen Room,5,,Location 9.4
+392,Pelican London Hotel and Residence,7.7,"Wandsworth, London",Good ,"3,032 reviews",Price 358 zł,9.7 km from center,Deluxe Single Room,3,,
+393,CG Kensington,8.3,"Kensington and Chelsea, London",Very Good ,"1,183 reviews",Price 594 zł,4.6 km from center,Small Double Room,4,,Location 9.5
+394,Room Home Stay,7.7,"City of London, London",Good ,688 reviews,Price 732 zł,3.6 km from center,Deluxe Studio with Sofa Bed,4,,Location 9.3
+395,"Crowne Plaza London Ealing, an IHG Hotel",7.9,"Ealing, London",Good ,"1,320 reviews",Price 644 zł,11.8 km from center,Standard Room,4,,
+396,The Bridge Hotel,7.3,"Southwark, London",Good ,"1,987 reviews",Price 512 zł,2 km from center,Single Room with Shared Bathroom,3,,
+397,The Westin London City,8.7,"City of London, London",Excellent ,444 reviews,"Price 1,662 zł",2.3 km from center,Signature King Room,5,,
+398,The Z Hotel Tottenham Court Road,8.2,"Westminster Borough, London",Very Good ,"6,969 reviews",Price 872 zł,1 km from center,Double Room,0,,Location 9.6
+399,The Franklin London - Starhotels Collezione,8.7,"Kensington and Chelsea, London",Excellent ,327 reviews,"Price 2,059 zł",3.1 km from center,Superior Double Room,5,,Location 9.6
+400,Park Plaza County Hall London,8.7,"Lambeth, London",Excellent ,"5,599 reviews","Price 1,074 zł",1 km from center,Superior Double Room,4,,Location 9.5
+401,The Landmark London,8.9,"Westminster Borough, London",Excellent ,"3,224 reviews","Price 2,059 zł",2.9 km from center,Double Room,5,,
+402,Best Western Plus Delmere Hotel,8.4,"Westminster Borough, London",Very Good ,"1,053 reviews",Price 680 zł,3.2 km from center,Cozy Single Room,3,,
+403,ibis London Earls Court,7.3,"Hammersmith and Fulham, London",Good ,"5,349 reviews",Price 681 zł,5.5 km from center,Standard Double Room,3,,
+404,South Place Hotel,8.5,"Islington, London",Very Good ,718 reviews,"Original price 1,934 zł. Current price 1,605 zł.",3.1 km from center,Deluxe Double Room,5,,
+405,Moxy London Stratford,8.2,"Newham, London",Very Good ,"3,316 reviews",Price 806 zł,9.6 km from center,"Moxy Sleeper, Guest room, 1 Queen",4,,
+406,Antoinette Hotel Wimbledon,8.2,"Wimbledon, London",Very Good ,"1,126 reviews",Price 366 zł,10.8 km from center,Single Room,3,,
+407,ibis London Wembley,7.8,"Brent, London",Good ,"5,078 reviews",Price 458 zł,12.1 km from center,Double Room,3,,
+408,"The Dixon, Tower Bridge, Autograph Collection",8.8,"Southwark, London",Excellent ,"1,238 reviews",Price 854 zł,3.6 km from center,Twin Room,4,,Location 9.4
+409,"Crowne Plaza - London - Albert Embankment, an IHG Hotel",8.7,"Lambeth, London",Excellent ,985 reviews,Price 995 zł,1.8 km from center,Standard King Room,4,,
+410,Euston Square Hotel,7.7,"Camden, London",Good ,"3,229 reviews",Price 664 zł,2.1 km from center,Single Room,3,,
+411,Bentley London,7.1,"Kensington and Chelsea, London",Good ,318 reviews,"Price 1,302 zł",4.2 km from center,Queen Room,5,,
+412,Leonardo Royal Hotel London City - Tower of London,7.9,"City of London, London",Good ,"8,974 reviews","Price 1,017 zł",3.5 km from center,Superior King Room,4,,
+413,Colliers Hotel,6.2,"Westminster Borough, London",Review score ,"1,098 reviews",Original price 583 zł. Current price 545 zł.,2.1 km from center,Single Room with private toilet and shower,2,,
+414,Point A Kensington Olympia,8.0,"Kensington and Chelsea, London",Very Good ,"3,323 reviews",Price 654 zł,5.1 km from center,Cozy Double Without Window,3,,
+415,Beautiful Double Room in Knightsbridge,6.7,"Kensington and Chelsea, London",Review score ,12 reviews,Original price 565 zł. Current price 529 zł.,2.8 km from center,Double Room,0,,
+416,The Royale Chulan Hyde Park Hotel,7.1,"Westminster Borough, London",Good ,"1,054 reviews",Original price 765 zł. Current price 572 zł.,4.5 km from center,Single Room,3,,
+417,The Distillery,7.8,"Kensington and Chelsea, London",Good ,143 reviews,Price 749 zł,5.4 km from center,Standard Double Room,0,,Location 9.3
+418,Central Station,7.0,"Islington, London",Good ,438 reviews,Price 681 zł,2.9 km from center,Single Room with Shared Bathroom,0,,
+419,Wns HOTEL,6.1,"Tower Hamlets, London",Review score ,989 reviews,Price 436 zł,8 km from center,Double Room with Private Bathroom,3,,
+420,The Gresham Hotel,6.9,"Westminster Borough, London",Review score ,"1,655 reviews",Original price 648 zł. Current price 583 zł.,3.2 km from center,Standard Single Room,3,Breakfast included,
+421,Hotel 55,7.9,"Ealing, London",Good ,"1,729 reviews",Original price 539 zł. Current price 504 zł.,11.4 km from center,Double Room with Garden View,4,,
+422,Hotel Olympia,4.0,"Kensington and Chelsea, London",Review score ,"1,711 reviews",Price 240 zł,5 km from center,Single Room,3,,
+423,"The Hoxton, Shepherds Bush",,"Hammersmith and Fulham, London",,,Price 948 zł,6.7 km from center,Snug,4,,
+424,196 Bishopsgate,8.0,"City of London, London",Very Good ,554 reviews,"Original price 1,103 zł. Current price 1,031 zł.",3.5 km from center,Executive Studio Apartment,4,,Location 9.3
+425,"Hotel Indigo London Tower Hill, an IHG Hotel",8.5,"City of London, London",Very Good ,307 reviews,Price 921 zł,3.6 km from center,Superior Room,4,,
+426,Best Western The Boltons Hotel London Kensington,7.1,"Kensington and Chelsea, London",Good ,"1,417 reviews",Price 817 zł,4.9 km from center,Single Room,4,,
+427,NOX Maida Vale,8.0,"Westminster Borough, London",Very Good ,555 reviews,Price 703 zł,3.6 km from center,Double Studio Lower Ground floor No Windows,4,,
+428,CitySpace Borough,6.7,"Southwark, London",Review score ,680 reviews,Price 652 zł,2.5 km from center,Single Room with Shared Bathroom,3,,
+429,Ascot Hyde Park Hotel,5.6,"Westminster Borough, London",Review score ,"1,667 reviews",Price 647 zł,3.5 km from center,Single Room,3,,
+430,Monopoly,7.4,"Tower Hamlets, London",Good ,298 reviews,Price 441 zł,3.8 km from center,Double Room with Shared Bathroom,0,,
+431,The Kilburn Arms,8.5,"Brent, London",Very Good ,718 reviews,Price 507 zł,6.4 km from center,Deluxe Triple Room,3,,
+432,K Hotel Kensington,7.3,"Kensington and Chelsea, London",Good ,"1,043 reviews",Original price 893 zł. Current price 536 zł.,4.4 km from center,Single Room,4,,
+433,The Kensington Hotel,8.9,"Kensington and Chelsea, London",Excellent ,287 reviews,"Price 1,983 zł",3.9 km from center,Classic Double Room,5,,Location 9.5
+434,NOX Paddington,7.3,"Westminster Borough, London",Good ,"1,585 reviews",Price 539 zł,3.6 km from center,Single Room,4,,
+435,Tower Gardens Residence,8.4,London,Very Good ,116 reviews,Price 287 zł,10.7 km from center,Double Room with Private Bathroom,0,,
+436,Paddington Court Executive Rooms,7.1,"Westminster Borough, London",Good ,"1,416 reviews",Price 621 zł,3.7 km from center,Deluxe Single Room,4,,
+437,Sloane Place,8.8,"Kensington and Chelsea, London",Excellent ,"1,716 reviews","Original price 1,462 zł. Current price 1,316 zł.",2.8 km from center,Cozy Double,4,,Location 9.6
+438,Caring Hotel,7.6,"Westminster Borough, London",Good ,"1,788 reviews",Price 722 zł,3.9 km from center,Single Room with Bathroom,3,,
+439,"InterContinental London Park Lane, an IHG Hotel",8.3,"Westminster Borough, London",Very Good ,403 reviews,"Price 2,349 zł",1.6 km from center,Cozy King Room,5,,Location 9.5
+440,Roseate House London,8.5,"Westminster Borough, London",Very Good ,910 reviews,"Price 1,079 zł",3.5 km from center,Budget Double Room,5,,Location 9.3
+441,"The Windermere Hotel, London",8.7,"Westminster Borough, London",Excellent ,913 reviews,"Price 1,250 zł",2.3 km from center,Superior Double Room,4,Breakfast included,
+442,"Club Quarters Hotel Trafalgar Square, London",8.2,"Westminster Borough, London",Very Good ,"4,830 reviews","Price 1,196 zł",100 m from center,Small Queen Room,4,,Location 9.7
+443,"The Trafalgar St. James, London Curio collection by Hilton",8.9,"Westminster Borough, London",Excellent ,"1,049 reviews","Price 1,961 zł",100 m from center,Trafalgar King Room,5,,Location 9.8
+444,Charlie Hotel,5.5,"Islington, London",Review score ,"1,328 reviews",Price 490 zł,5.3 km from center,Single Room,2,Breakfast included,
+445,AMANO Covent Garden,8.0,"Westminster Borough, London",Very Good ,906 reviews,"Price 1,321 zł",0.9 km from center,Double Room,4,,Location 9.6
+446,St. David's Hotels Paddington,6.8,"Westminster Borough, London",Review score ,"3,134 reviews",Price 523 zł,3.3 km from center,Standard Single Room,2,,
+447,The Rembrandt,8.2,"Kensington and Chelsea, London",Very Good ,"1,670 reviews","Price 1,273 zł",3.2 km from center,Classic Twin Room,4,Breakfast included,Location 9.5
+448,La Suite West - Hyde Park,7.6,"Westminster Borough, London",Good ,"1,056 reviews",Price 866 zł,4.1 km from center,Petite Double Room,4,,
+449,The Z Hotel Piccadilly,8.0,"Westminster Borough, London",Very Good ,"6,692 reviews",Price 817 zł,350 m from center,Double Room,0,,Location 9.6
+450,Suffolk Lane by Blueprint Living,8.1,"City of London, London",Very Good ,645 reviews,Price 981 zł,2.7 km from center,Studio Apartment,4,,Location 9.3
+451,Carlton Hotel,6.7,"Westminster Borough, London",Review score ,"1,022 reviews",Price 614 zł,2.1 km from center,Double Room with private toilet and shower,2,,
+452,The Crown Hotel,7.5,London,Good ,"2,354 reviews",Price 735 zł,8.1 km from center,Deluxe Double Room,4,,
+453,mk hotel london,7.8,"Wandsworth, London",Good ,748 reviews,Original price 581 zł. Current price 523 zł.,7.6 km from center,Economy Single Room,0,Breakfast included,
+454,London Hilton on Park Lane,7.9,"Westminster Borough, London",Good ,"1,271 reviews","Price 1,858 zł",1.6 km from center,Twin Guestroom,5,,
+455,Hilton London Kensington Hotel,7.0,"Kensington and Chelsea, London",Good ,"2,662 reviews",Price 648 zł,6 km from center,Double Hilton Guestroom,4,,
+456,Point A Hotel London Shoreditch,7.9,"Hackney, London",Good ,"4,631 reviews",Price 654 zł,3.4 km from center,Double Room - No Window,3,,
+457,Pestana Chelsea Bridge Hotel,8.1,"Wandsworth, London",Very Good ,"2,585 reviews",Price 883 zł,3.2 km from center,Deluxe King Room,4,,
+458,Generator London,7.0,"Camden, London",Good ,"5,199 reviews",Price 357 zł,2.1 km from center,Bed in 10 + Mixed Dormitory Room,3,,
+459,Astor Hyde Park Hostel,7.7,"Kensington and Chelsea, London",Good ,"1,855 reviews",Price 191 zł,3.7 km from center,Bed in 10-Bed Female Dorm Ensuite,0,,
+460,Axiom Park Hotel,6.1,"Wandsworth, London",Review score ,"1,875 reviews",Price 642 zł,4.2 km from center,Standard Studio,4,,
+461,Norfolk Towers Paddington,7.4,"Westminster Borough, London",Good ,"4,714 reviews",Price 824 zł,3.2 km from center,Club Double Room,4,,
+462,Sunborn London Yacht Hotel,8.0,"Newham, London",Very Good ,"4,447 reviews","Price 1,236 zł",10.6 km from center,Classic King room with Dockview,4,Breakfast included,
+463,The Exhibitionist Hotel,8.4,"Kensington and Chelsea, London",Very Good ,"2,258 reviews","Price 1,520 zł",3.7 km from center,Deluxe Double Room,5,,Location 9.4
+464,Selina Camden,7.9,"Camden, London",Good ,301 reviews,Price 366 zł,4.4 km from center,Bunk Bed in Mixed Dormitory Room,3,,
+465,K West Hotel & Spa,7.6,"Hammersmith and Fulham, London",Good ,"3,319 reviews",Price 657 zł,6.2 km from center,Junior Double,4,,
+466,"London Chigwell Prince Regent Hotel, BW Signature Collection",6.6,London,Review score ,"1,154 reviews",Original price 567 zł. Current price 482 zł.,17 km from center,Classic Double Room,4,,
+467,The Villa Kensington,7.6,"Kensington and Chelsea, London",Good ,"1,223 reviews",Price 440 zł,4.3 km from center,Single Room,3,,
+468,Megaro Hotel,8.3,"Camden, London",Very Good ,"1,429 reviews","Price 1,389 zł",2.5 km from center,Standard Double Room,5,,Location 9.4
+469,Stratford Hotel,7.1,"Newham, London",Good ,537 reviews,Price 354 zł,10.1 km from center,Standard Single Room,2,,
+470,The Angerstein Hotel,7.5,"Greenwich, London",Good ,953 reviews,Price 309 zł,10.3 km from center,Single Room with Shared Bathroom,3,,
+471,"Intercontinental London - The O2, an IHG Hotel",8.8,"Greenwich, London",Excellent ,"7,046 reviews","Price 1,060 zł",8.9 km from center, 1 King Bed Classic ,5,,Location 9.4
+472,Signature Townhouse London Hyde Park,7.1,"Westminster Borough, London",Good ,"4,036 reviews","Price 1,046 zł",3.7 km from center,Club Double Room,4,,
+473,Hotel Shepherds Bush London,8.2,"Hammersmith and Fulham, London",Very Good ,"1,782 reviews",Price 400 zł,6.8 km from center,Single Room,4,,
+474,Double room LGBT,8.2,"Hammersmith and Fulham, London",Very Good ,64 reviews,Price 568 zł,7.1 km from center,Superior Double Room,3,Breakfast included,
+475,St Simeon,8.0,"Kensington and Chelsea, London",Very Good ,858 reviews,Price 763 zł,4.4 km from center,Standard Single Room,2,,Location 9.4
+476,Courthouse Hotel Shoreditch,6.8,"Hackney, London",Review score ,669 reviews,"Price 1,444 zł",4 km from center,Dalston King,5,,
+477,London Marriott Hotel Marble Arch,7.8,"Westminster Borough, London",Good ,900 reviews,"Price 1,140 zł",2.7 km from center,Deluxe King Room,4,,
+478,The Paramount Hotel,6.9,"Kensington and Chelsea, London",Review score ,"2,790 reviews",Price 539 zł,5.1 km from center,Single Room,2,,
+479,Citadines South Kensington London,7.8,"Kensington and Chelsea, London",Good ,"1,138 reviews",Price 877 zł,4 km from center,Studio,4,,Location 9.3
+480,Prince William Hotel,5.9,"Westminster Borough, London",Review score ,733 reviews,Original price 866 zł. Current price 736 zł.,3.6 km from center,Single Room,3,,
+481,Wilde Aparthotels by Staycity Covent Garden,9.0,"Westminster Borough, London",Wonderful ,"2,970 reviews","Price 1,547 zł",450 m from center,Wilde Studio,4,,Location 9.8
+482,Dolphin Inn - The Lodge,7.1,"Westminster Borough, London",Good ,713 reviews,Price 485 zł,3.3 km from center,Single Room with Bathroom,0,,
+483,Blue Sapphire Hotel,8.3,London,Very Good ,501 reviews,Price 539 zł,16.9 km from center,Deluxe Single Room,3,,
+484,The Gore London - Starhotels Collezione,8.3,"Kensington and Chelsea, London",Very Good ,818 reviews,"Price 1,324 zł",3.7 km from center,Single Room,4,,Location 9.5
+485,Charlotte Guest House,8.0,"Camden, London",Very Good ,"2,375 reviews",Price 485 zł,6.4 km from center,Double Room with Shared Bathroom,0,,
+486,Hazlitt's,9.1,"Westminster Borough, London",Wonderful ,812 reviews,"Price 1,247 zł",0.8 km from center,Club Single Room,4,,Location 9.8
+487,"Hotel Indigo - London - 1 Leicester Square, an IHG Hotel",7.8,"Westminster Borough, London",Good ,"1,022 reviews","Price 1,320 zł",400 m from center,Queen Room,4,,Location 9.5
+488,Room Home Stay,7.7,"City of London, London",Good ,688 reviews,Price 732 zł,3.6 km from center,Deluxe Studio with Sofa Bed,4,,Location 9.3
+489,The Rosebery by Supercity Aparthotels,8.7,"Islington, London",Excellent ,277 reviews,"Price 1,171 zł",2.1 km from center,Studio Suite,4,,
+490,Paddington Park Hotel,7.8,"Westminster Borough, London",Good ,"2,226 reviews","Price 1,220 zł",3.6 km from center,Single Room,3,,
+491,CitySpace Borough,6.7,"Southwark, London",Review score ,680 reviews,Price 652 zł,2.5 km from center,Single Room with Shared Bathroom,3,,
+492,Apex London Wall Hotel,8.9,"City of London, London",Excellent ,510 reviews,"Price 1,030 zł",2.9 km from center,City King or Twin Room,4,,
+493,The Warwick By Aura Collection,7.0,"Westminster Borough, London",Good ,322 reviews,"Price 1,642 zł",2.1 km from center,Small Double Room [Lower Ground] ,0,,
+494,The Dirty Liquor Hotel at The Cherry,8.0,"Tower Hamlets, London",Very Good ,512 reviews,Price 524 zł,6.6 km from center,Family Room with Private Bathroom,0,,
+495,NOX Notting Hill,7.6,"Westminster Borough, London",Good ,"1,508 reviews",Price 670 zł,4 km from center,Double Studio,4,,
+496,Malmaison London,8.0,"Islington, London",Very Good ,"1,026 reviews",Price 926 zł,2.4 km from center,Cozy Double Room,4,,
+497,The Judd Hotel,7.6,"Camden, London",Good ,"2,444 reviews","Price 1,418 zł",2.1 km from center,Single Room,3,Breakfast included,
+498,The Mitre by Innkeeper's Collection,7.9,"Greenwich, London",Good ,"1,326 reviews",Price 583 zł,8.7 km from center,Standard Double Room,4,,
+499,Novotel London Wembley,8.4,"Brent, London",Very Good ,"3,858 reviews",Price 697 zł,12.2 km from center,Superior Queen Room with Sofa,4,,Location 9.3
+500,Andaz London Liverpool Street - a Concept by Hyatt,8.8,"City of London, London",Excellent ,702 reviews,"Price 1,389 zł",3.3 km from center,Queen Room,5,,Location 9.4
+501,Leonardo Royal London Tower Bridge,8.0,"Tower Hamlets, London",Very Good ,"11,021 reviews","Price 1,054 zł",3.9 km from center,Superior Double Room,4,,
+502,Hootananny Hostel,7.0,"Lambeth, London",Good ,819 reviews,Price 132 zł,5.9 km from center,Bunk Bed in Female Dormitory Room  ,0,,
+503,Seraphine Kensington Olympia,7.2,"Kensington and Chelsea, London",Good ,"2,183 reviews","Original price 1,198 zł. Current price 1,139 zł.",4.9 km from center,Standard Double Room,4,Breakfast included,
+504,COMO Metropolitan London,8.3,"Westminster Borough, London",Very Good ,289 reviews,"Original price 2,718 zł. Current price 2,474 zł.",1.6 km from center,Deluxe Metropolitan City Double Room,5,,Location 9.4
+505,"Holiday Inn Express Park Royal, an IHG Hotel",7.9,"Acton, London",Good ,"2,571 reviews",Price 493 zł,9.3 km from center,Double Room,3,Breakfast included,
+506,"Number Sixteen, Firmdale Hotels",9.2,"Kensington and Chelsea, London",Wonderful ,248 reviews,"Price 2,353 zł",3.7 km from center,Queen Room,5,,Location 9.6
+507,Thanet Hotel,5.5,"Camden, London",Review score ,"1,105 reviews",Price 518 zł,1.4 km from center,Single Room with Shared Bathroom,3,,
+508,Comfotel GRN,5.1,"Hammersmith and Fulham, London",Review score ,587 reviews,Price 387 zł,6.6 km from center,Double Room,0,,
+509,Astor Victoria Hostel,7.1,"Westminster Borough, London",Good ,"1,955 reviews",Original price 202 zł. Current price 191 zł.,2 km from center,Bed in 8-Bed Mixed Dormitory Room,0,,
+510,Moxy London Stratford,8.2,"Newham, London",Very Good ,"3,316 reviews",Price 806 zł,9.6 km from center,"Moxy Sleeper, Guest room, 1 Queen",4,,
+511,1 Lexham Gardens Hotel,6.1,"Kensington and Chelsea, London",Review score ,"1,929 reviews",Original price 502 zł. Current price 405 zł.,4.6 km from center,Standard Single Room,3,,
+512,The Zetter Hotel,8.3,"Islington, London",Very Good ,565 reviews,"Original price 1,531 zł. Current price 1,378 zł.",2.4 km from center,Club Double Room,4,,
+513,Wilde Aparthotels by Staycity London Aldgate Tower Bridge,9.2,"Tower Hamlets, London",Wonderful ,"1,332 reviews",Price 981 zł,4.4 km from center,Wilde Studio Double,4,,
+514,easyHotel Victoria,5.7,"Westminster Borough, London",Review score ,"3,334 reviews",Original price 461 zł. Current price 438 zł.,2 km from center,Small Double Room without Window,0,,
+515,Smart Hyde Park Inn Hostel,6.7,"Westminster Borough, London",Review score ,"2,907 reviews",Price 167 zł,4.1 km from center,Bed in 16-Bed Mixed Dormitory Room,0,,
+516,The Hurdwick,7.8,"Camden, London",Good ,941 reviews,Original price 804 zł. Current price 763 zł.,3.1 km from center,Double Room,0,,
+517,Hazlitt's,9.1,"Westminster Borough, London",Wonderful ,812 reviews,"Price 1,247 zł",0.8 km from center,Club Single Room,4,,Location 9.8
+518,Park Avenue Inn Craven London Hyde Park,5.3,"Westminster Borough, London",Review score ,"2,229 reviews",Original price 637 zł. Current price 605 zł.,3.6 km from center,Single Room,3,,
+519,"Montcalm East, Autograph Collection",8.6,"Hackney, London",Excellent ,"3,387 reviews","Price 1,313 zł",3.5 km from center,"Anything But Standard, Guest room, Queen, City view",5,,
+520,"Crowne Plaza - London - Albert Embankment, an IHG Hotel",8.7,"Lambeth, London",Excellent ,985 reviews,Price 995 zł,1.8 km from center,Standard King Room,4,,
+521,Eurotraveller Hotel - Premier - Tower Bridge,7.5,"Southwark, London",Good ,"2,291 reviews",Original price 447 zł. Current price 424 zł.,3.8 km from center,Double Room,3,,
+522,The Cranley Hotel,4.4,"Kensington and Chelsea, London",Review score ,"1,806 reviews",Original price 419 zł. Current price 398 zł.,4.2 km from center,Classic Single Room,4,Breakfast included,
+523,Meliá London Kensington Member of Meliá Collection,8.4,"Kensington and Chelsea, London",Very Good ,826 reviews,"Original price 1,444 zł. Current price 1,166 zł.",4 km from center,Cozy Room,4,,Location 9.3
+524,Charlotte Guest House,8.0,"Camden, London",Very Good ,"2,375 reviews",Price 485 zł,6.4 km from center,Double Room with Shared Bathroom,0,,
+525,Ten Manchester Street Hotel,8.4,"Westminster Borough, London",Very Good ,409 reviews,"Original price 1,343 zł. Current price 1,276 zł.",2.2 km from center,Petite Double Room,4,,Location 9.4
+526,Wns HOTEL,6.1,"Tower Hamlets, London",Review score ,989 reviews,Price 436 zł,8 km from center,Double Room with Private Bathroom,3,,
+527,ibis London Wembley,7.8,"Brent, London",Good ,"5,078 reviews",Price 458 zł,12.1 km from center,Double Room,3,,
+528,The Carlton Tower Jumeirah,9.1,"Kensington and Chelsea, London",Wonderful ,94 reviews,"Price 4,177 zł",2.4 km from center,Superior Room,5,,Location 9.8
+529,Park Avenue Inn Craven London Hyde Park,5.3,"Westminster Borough, London",Review score ,"2,229 reviews",Price 637 zł,3.6 km from center,Single Room,3,,
+530,London - Wembley International Hotel,6.7,"Brent, London",Review score ,"3,754 reviews",Price 296 zł,12.3 km from center,Single Room,3,,
+531,DoubleTree by Hilton London – Docklands Riverside,7.9,"Southwark, London",Good ,"4,619 reviews",Price 926 zł,6.5 km from center,Double Guest Room,4,,
+532,Hotel DC,7.8,"Newham, London",Good ,406 reviews,Price 545 zł,11 km from center,Single Room,4,Breakfast included,
+533,Chiswick Riviera,8.9,"Chiswick, London",Excellent ,231 reviews,Price 572 zł,10.5 km from center,Deluxe Double Room,0,Breakfast included,Location 9.3
+534,ME London by Melia,8.6,"Westminster Borough, London",Excellent ,"1,528 reviews","Original price 2,424 zł. Current price 2,061 zł.",0.8 km from center,Aura Guestroom,5,,Location 9.5
+535,Park Plaza Westminster Bridge London,8.3,"Lambeth, London",Very Good ,"19,941 reviews","Price 1,198 zł",1 km from center,Superior Double Room with Internal View,4,,Location 9.5
+536,COMO The Halkin,9.0,"Westminster Borough, London",Wonderful ,73 reviews,"Price 3,100 zł",1.9 km from center,City Room,5,,Location 9.4
+537,NYX Hotel London Holborn by Leonardo Hotels,8.4,"Camden, London",Very Good ,"5,179 reviews","Price 1,319 zł",1.4 km from center,Superior Double Room,5,,Location 9.3
+538,The Walrus Bar and Hostel,7.3,"Lambeth, London",Good ,"1,084 reviews",Price 166 zł,1.2 km from center,Bed in 24-Bed Mixed Dormitory Room,0,,
+539,The Leonard Hotel,7.5,"Westminster Borough, London",Good ,892 reviews,Price 828 zł,2.2 km from center,Single Room with Shower,4,,Location 9.3
+540,Smart Russell Square Hostel,6.7,"Camden, London",Review score ,"4,900 reviews",Price 178 zł,1.7 km from center,Single Bed in 9-Bed Mixed Dormitory Room with Private Bathroom,0,,
+541,Ruby Lucy Hotel London,8.9,"Lambeth, London",Excellent ,"2,161 reviews",Price 926 zł,1.3 km from center,Nest,4,,Location 9.4
+542,London Marriott Hotel County Hall,8.4,"Lambeth, London",Very Good ,803 reviews,"Price 1,983 zł",0.9 km from center,Deluxe King Room,5,,Location 9.5
+543,The Stafford London,9.1,"Westminster Borough, London",Wonderful ,912 reviews,"Price 2,037 zł",0.9 km from center,Classic Queen Room,5,,Location 9.8
+544,Prime Backpackers Angel,7.9,"Islington, London",Good ,820 reviews,Price 207 zł,3.2 km from center,Bed in 9-Bed Female Dormitory Room,0,,
+545,Victor Hotel - London Victoria,7.0,"Westminster Borough, London",Good ,"1,284 reviews",Price 735 zł,2 km from center,Double Room,3,,
+546,Glendale Hyde Park Hotel,6.3,"Westminster Borough, London",Review score ,679 reviews,Price 321 zł,3.7 km from center,Budget Single Room,3,,
+547,Best Western Chiswick Palace & Suites London,8.0,"Chiswick, London",Very Good ,"2,542 reviews",Price 632 zł,8.7 km from center,Standard Single Room,3,,
+548,Marlin Waterloo,7.9,"Lambeth, London",Good ,"5,468 reviews",Price 921 zł,1.4 km from center,"Classic Room, 1 King Bed",4,,
+549,Beaconsfield Hotel,5.8,London,Review score ,888 reviews,Price 393 zł,7.9 km from center,Double Room,2,,
+550,Hyde Park Executive Apartments,6.7,"Westminster Borough, London",Review score ,"1,552 reviews",Price 910 zł,4.1 km from center,Superior Double Studio,4,,
+551,The Grand at Trafalgar Square,8.2,"Westminster Borough, London",Very Good ,"2,958 reviews","Price 1,196 zł",100 m from center,Small Queen Room,4,,Location 9.7
+552,B&B Belgravia,7.6,"Westminster Borough, London",Good ,952 reviews,"Price 1,053 zł",2.1 km from center,Partner offer option,4,,Location 9.4
+553,OYO Grantly Hotel,6.8,"Hammersmith and Fulham, London",Review score ,"1,891 reviews",Price 376 zł,6.6 km from center,Standard Single Room,4,,
+554,Fox Connaught London ExCel,7.4,"Newham, London",Good ,434 reviews,"Original price 1,025 zł. Current price 820 zł.",11.6 km from center,Standard Double Room,0,,
+555,Sonder St Johns Garden,6.6,"Islington, London",Review score ,141 reviews,"Price 1,084 zł",2.5 km from center,Double Room,3,,
+556,mk hotel london,7.8,"Wandsworth, London",Good ,748 reviews,Original price 581 zł. Current price 523 zł.,7.6 km from center,Economy Single Room,0,Breakfast included,
+557,The Park City Grand Plaza Kensington Hotel,7.8,"Kensington and Chelsea, London",Good ,"1,376 reviews",Price 750 zł,4.5 km from center,Deluxe Double Room,4,,
+558,Hilton London Tower Bridge,8.7,"Southwark, London",Excellent ,"2,471 reviews","Price 1,231 zł",3.1 km from center,King Room,4,,Location 9.5
+559,Rosewood London,9.1,"Camden, London",Wonderful ,812 reviews,"Price 3,312 zł",1.3 km from center,Deluxe King Room,5,,Location 9.3
+560,Chelsea Guest House,7.8,"Lambeth, London",Good ,"1,634 reviews",Price 388 zł,4.1 km from center,Budget Single Room,3,,
+561,Egerton House,9.3,"Kensington and Chelsea, London",Wonderful ,482 reviews,"Original price 2,424 zł. Current price 2,182 zł.",3 km from center,Deluxe Queen Room,5,,Location 9.7
+562,Simply Rooms & Suites,7.2,"Hammersmith and Fulham, London",Good ,574 reviews,Price 588 zł,5.7 km from center,Classic Double Room,4,,
+563,Novotel London Blackfriars,8.3,"Southwark, London",Very Good ,"2,499 reviews","Price 1,091 zł",1.6 km from center,Superior Room with 1 Queen Bed + 1 Sofa Bed,4,,
+564,Tower Bridge Rooms,7.3,"Southwark, London",Good ,119 reviews,Price 599 zł,4.5 km from center,Double Room,0,,
+565,Streatham Common Bed & Breakfast,9.4,"Lambeth, London",Wonderful ,417 reviews,Price 490 zł,10 km from center,Double Room with Private Bathroom,3,Breakfast included,
+566,Victoria Inn,8.8,"Southwark, London",Excellent ,584 reviews,Price 588 zł,5.8 km from center,Double Room,0,,
+567,Riverside Rooms & Apartments,7.3,"Newham, London",Good ,246 reviews,Price 703 zł,10.7 km from center,Deluxe Double Room,0,,
+568,Rose And Crown Hotel,9.1,"Wimbledon, London",Wonderful ,174 reviews,Price 757 zł,11.1 km from center,Double Room,3,,Location 9.6
+569,Astor Hyde Park Hostel,7.7,"Kensington and Chelsea, London",Good ,"1,855 reviews",Price 191 zł,3.7 km from center,Bed in 10-Bed Female Dorm Ensuite,0,,
+570,Kensington Court Hotel - Earls Court,7.5,"Kensington and Chelsea, London",Good ,451 reviews,Price 789 zł,5 km from center,Single Room,3,Breakfast included,
+571,"Montcalm East, Autograph Collection",8.6,"Hackney, London",Excellent ,"3,387 reviews","Price 1,313 zł",3.5 km from center,"Anything But Standard, Guest room, Queen, City view",5,,
+572,Sheraton Grand London Park Lane,8.2,"Westminster Borough, London",Very Good ,746 reviews,"Price 1,695 zł",1.4 km from center,Deluxe Queen Room,5,,Location 9.3
+573,OYO Bakers Hotel,7.4,"Westminster Borough, London",Good ,"1,377 reviews",Price 921 zł,2.2 km from center,Standard Double Room,3,Breakfast included,
+574,The Warwick By Aura Collection,7.0,"Westminster Borough, London",Good ,322 reviews,"Price 1,642 zł",2.1 km from center,Small Double Room [Lower Ground] ,0,,
+575,Fielding Hotel,8.2,"Westminster Borough, London",Very Good ,"3,151 reviews","Original price 1,798 zł. Current price 1,618 zł.",0.8 km from center,Double Room,4,,Location 9.8
+576,London Marriott Hotel Canary Wharf,8.4,"Tower Hamlets, London",Very Good ,"1,997 reviews",Price 954 zł,7.4 km from center,"Deluxe Room, Guest room, 1 King",5,,
+577,The Castleton Hotel,5.5,"Westminster Borough, London",Review score ,201 reviews,Original price 860 zł. Current price 804 zł.,3.3 km from center,Single Room,3,,
+578,Hyatt Place London City East,8.4,"Tower Hamlets, London",Very Good ,"2,309 reviews",Price 690 zł,4.2 km from center,Twin Room,4,,
+579,Grange White Hall Hotel,6.9,"Camden, London",Review score ,"1,243 reviews","Original price 1,522 zł. Current price 1,138 zł.",1.4 km from center,Single Room,4,,
+580,Thanet Hotel,5.5,"Camden, London",Review score ,"1,105 reviews",Price 518 zł,1.4 km from center,Single Room with Shared Bathroom,3,,
+581,Pimlico Inn,5.7,"Westminster Borough, London",Review score ,15 reviews,Original price 437 zł. Current price 408 zł.,1.9 km from center,Budget Double Room,0,,
+582,Golders Park Hotel,5.8,"Golders Green, London",Review score ,"1,021 reviews",Price 528 zł,9.3 km from center,Comfort Double Room,3,,
+583,Sonder Camden Road,7.9,"Camden, London",Good ,619 reviews,"Original price 1,024 zł. Current price 871 zł.",4.6 km from center,Double Room,3,,
+584,Danubius Hotel Regents Park,8.2,"Westminster Borough, London",Very Good ,"1,917 reviews","Price 1,074 zł",3.7 km from center,Standard King Room,4,,
+585,"Lost Property St Pauls London, Curio Collection By Hilton",8.5,"City of London, London",Very Good ,126 reviews,"Price 1,068 zł",2 km from center,Queen Guest Room,4,,Location 9.4
+586,"Holiday Inn London - Regent's Park, an IHG Hotel",7.8,"Westminster Borough, London",Good ,"3,016 reviews",Price 878 zł,2 km from center,Standard Double Room - Disability Access,4,,
+587,Snoozebox Olympic Park,8.0,"Newham, London",Very Good ,"3,651 reviews",Price 485 zł,8.4 km from center,Standard Double Room,0,,
+588,Royal Park Hotel,7.2,"Westminster Borough, London",Good ,"1,567 reviews",Original price 704 zł. Current price 658 zł.,4.1 km from center,Standard Single Room,3,,
+589,The Ampersand Hotel,8.9,"Kensington and Chelsea, London",Excellent ,"1,993 reviews","Original price 1,776 zł. Current price 1,421 zł.",3.6 km from center,Small Double Room,5,,Location 9.6
+590,St Christopher's Greenwich,6.4,"Greenwich, London",Review score ,980 reviews,Price 125 zł,8.6 km from center,Bed in 12-Bed Mixed Dormitory Room with External Shared Bathroom,0,,
+591,Blackbird,9.4,"Kensington and Chelsea, London",Wonderful ,982 reviews,"Price 1,025 zł",4.8 km from center,Small Double Room,4,Breakfast included,Location 9.7
+592,Batty Langley's,9.4,"Tower Hamlets, London",Wonderful ,723 reviews,"Price 1,792 zł",3.8 km from center,Club Double Room,5,,Location 9.5
+593,Ehthele Private Suites,8.7,"Westminster Borough, London",Excellent ,184 reviews,"Price 1,910 zł",0.8 km from center,Superior Studio,4,,Location 9.7
+594,Rushmore Hotel,7.4,"Kensington and Chelsea, London",Good ,977 reviews,Original price 583 zł. Current price 546 zł.,4.9 km from center,Double Room,3,,
+595,Berkeley Court Hotel,3.6,"Westminster Borough, London",Review score ,489 reviews,Original price 465 zł. Current price 435 zł.,2.5 km from center,Budget Single Room with Shared Bathroom,0,,
+596,The Portobello Hotel,8.5,"Kensington and Chelsea, London",Very Good ,196 reviews,"Original price 1,441 zł. Current price 1,347 zł.",5.3 km from center,Budget Double Room,4,,Location 9.5
+597,Cricklewood Lodge Hotel,6.4,"Brent, London",Review score ,667 reviews,Original price 354 zł. Current price 331 zł.,7.6 km from center,Double Room,0,,
+598,"The May Fair, A Radisson Collection Hotel, Mayfair London",8.0,"Westminster Borough, London",Very Good ,"2,745 reviews","Price 1,736 zł",1.1 km from center,Collection Superior Queen Room,5,,Location 9.5
+599,"Crowne Plaza London Ealing, an IHG Hotel",7.9,"Ealing, London",Good ,"1,320 reviews",Price 644 zł,11.8 km from center,Standard Room,4,,
+600,"The Hoxton, Southwark",8.7,"Southwark, London",Excellent ,"1,562 reviews","Price 1,384 zł",1.6 km from center,Snug,4,,
+601,Oxford Hotel,8.4,"Kensington and Chelsea, London",Very Good ,705 reviews,Price 907 zł,4.9 km from center,Single Room,3,,
+602,ABC Hyde Park Hotel,6.5,"Westminster Borough, London",Review score ,872 reviews,Price 455 zł,3.2 km from center,Single Room,3,,
+603,The Pilot Inn,8.6,"Greenwich, London",Excellent ,946 reviews,"Price 1,172 zł",9.6 km from center,Single Room,0,Breakfast included,Location 9.5
+604,Ascot Hyde Park Hotel,5.6,"Westminster Borough, London",Review score ,"1,667 reviews",Price 647 zł,3.5 km from center,Single Room,3,,
+605,Novotel London Waterloo,7.9,"Lambeth, London",Good ,"2,132 reviews",Price 915 zł,1.5 km from center,Superior Queen Room with Sofa,4,,
+606,Tower Bridge Rooms,7.3,"Southwark, London",Good ,119 reviews,Price 599 zł,4.5 km from center,Double Room,0,,
+607,NOX Waterloo,8.2,"Lambeth, London",Very Good ,"5,190 reviews",Price 703 zł,1.3 km from center,"Double Studio (Lower Ground Floor, No Windows)",4,,
+608,55 by Le Mirage,8.6,"Westminster Borough, London",Excellent ,290 reviews,Price 858 zł,4.5 km from center,Standard Double Room,4,,
+609,Ruby Lucy Hotel London,8.9,"Lambeth, London",Excellent ,"2,161 reviews",Price 926 zł,1.3 km from center,Nest,4,,Location 9.4
+610,Monopoly,7.4,"Tower Hamlets, London",Good ,298 reviews,Price 441 zł,3.8 km from center,Double Room with Shared Bathroom,0,,
+611,Town Hall Hotel & Apartments,8.3,"Tower Hamlets, London",Very Good ,607 reviews,"Price 1,030 zł",5.6 km from center,Double Room,5,,
+612,Sea Containers London,8.8,"Southwark, London",Excellent ,"5,836 reviews","Price 1,436 zł",1.5 km from center,Standard,5,,Location 9.5
+613,Meliá London Kensington Member of Meliá Collection,8.4,"Kensington and Chelsea, London",Very Good ,826 reviews,"Original price 1,444 zł. Current price 1,227 zł.",4 km from center,Cozy Room,4,,Location 9.3
+614,Double Room Charlotte,8.1,"Lambeth, London",Very Good ,14 reviews,Price 430 zł,6 km from center,Double Room,0,,
+615,The Gate ApartHotel London,8.8,"Tower Hamlets, London",Excellent ,"1,521 reviews","Price 1,176 zł",4.2 km from center,Studio,4,,
+616,Milestone Hotel Kensington,9.4,"Kensington and Chelsea, London",Wonderful ,550 reviews,"Original price 2,234 zł. Current price 2,010 zł.",4.1 km from center,Superior Queen Room,5,,Location 9.7
+617,Victoria Villas,8.9,"Hammersmith and Fulham, London",Excellent ,136 reviews,Price 417 zł,6.8 km from center,Single Room,0,,
+618,Astors Belgravia,7.6,"Westminster Borough, London",Good ,"1,661 reviews",Price 675 zł,2.2 km from center,Single Room,3,Breakfast included,Location 9.3
+619,Paddington Apartments,7.4,"Westminster Borough, London",Good ,"1,591 reviews",Price 579 zł,3.4 km from center,Studio (2 Adults),4,,
+620,Templeton Place by Supercity Aparthotels,8.6,"Kensington and Chelsea, London",Excellent ,250 reviews,"Price 1,144 zł",5 km from center,Studio Suite,4,,
+621,Copthorne Tara Hotel London Kensington,6.8,"Kensington and Chelsea, London",Review score ,"8,150 reviews",Price 800 zł,4.5 km from center,Standard Double Room,4,,
+622,Kensal Green Backpackers 2,5.2,"Brent, London",Review score ,"1,201 reviews",Price 109 zł,7.2 km from center,Bed in 6-Bed Mixed Dormitory Room,2,,
+623,The J Hyde Park - A Park Avenue Hotel,7.4,"Westminster Borough, London",Good ,175 reviews,"Price 1,307 zł",4.4 km from center,Deluxe Double Room,4,,
+624,Point A Hotel London Westminster,7.5,"Lambeth, London",Good ,"2,861 reviews",Price 654 zł,1.4 km from center,Double Room without Window,3,,
+625,Howard Winchester Hotel,7.9,"Camden, London",Good ,"1,199 reviews",Price 910 zł,2.5 km from center,Double Room with Extra Single Bed,0,,Location 9.3
+626,"Club Quarters Hotel London City, London",7.4,"City of London, London",Good ,"3,080 reviews",Price 830 zł,3 km from center,Small Queen Room,4,,
+627,The Cranley Hotel,4.4,"Kensington and Chelsea, London",Review score ,"1,806 reviews",Price 419 zł,4.2 km from center,Classic Single Room,4,Breakfast included,
+628,Hotel Xenia - Autograph Collection,8.2,"Kensington and Chelsea, London",Very Good ,84 reviews,Price 981 zł,4.5 km from center,Small Single Room,4,,
+629,Best Western Buckingham Palace Rd,7.7,"Westminster Borough, London",Good ,"2,855 reviews","Price 1,901 zł",2.1 km from center,Standard Double Room,3,,
+630,Residence Inn by Marriott London Tower Bridge,8.0,"Southwark, London",Very Good ,"1,207 reviews",Price 998 zł,3.3 km from center,"Studio, 1 Double",4,Breakfast included,
+631,Novotel London Blackfriars,8.3,"Southwark, London",Very Good ,"2,499 reviews","Price 1,091 zł",1.6 km from center,Superior Room with 1 Queen Bed + 1 Sofa Bed,4,,
+632,St Christopher's Inn Village - London Bridge,7.4,"Southwark, London",Good ,"2,685 reviews",Price 228 zł,2.5 km from center,Bed in 21-Bed Mixed Dormitory Room with Triple Bunks and External Shared Bathroom,0,,
+633,Astors Belgravia,7.6,"Westminster Borough, London",Good ,"1,661 reviews",Price 672 zł,2.2 km from center,Single Room,3,Breakfast included,Location 9.3
+634,Commodore Hotel,7.6,"Westminster Borough, London",Good ,"1,249 reviews",Price 910 zł,3.7 km from center,Superior Single Room,4,,
+635,Colliers Hotel,6.2,"Westminster Borough, London",Review score ,"1,098 reviews",Price 583 zł,2.1 km from center,Single Room with private toilet and shower,2,,
+636,Rose And Crown Hotel,9.1,"Wimbledon, London",Wonderful ,174 reviews,Price 757 zł,11.1 km from center,Double Room,3,,Location 9.6
+637,Goodwood Hotel,5.0,"Camden, London",Review score ,"1,044 reviews",Price 397 zł,2 km from center,Single Room with Shared Bathroom,2,,
+638,Copthorne Tara Hotel London Kensington,6.8,"Kensington and Chelsea, London",Review score ,"8,150 reviews",Price 800 zł,4.5 km from center,Standard Double Room,4,,
+639,The Pack And Carriage London,7.4,"Camden, London",Good ,"1,887 reviews",Price 847 zł,2.8 km from center,Single Room with Private Bathroom,3,,
+640,Tudor Court Hotel,6.8,"Westminster Borough, London",Review score ,"1,335 reviews",Price 312 zł,3.3 km from center,Single Shared Bathroom,3,,
+641,City Lodge London,6.6,"Tower Hamlets, London",Review score ,435 reviews,Price 376 zł,7.9 km from center,Twin Room,2,,
+642,Messina Studios,7.8,"Camden, London",Good ,743 reviews,Price 523 zł,6.1 km from center,Double Studio,4,,
+643,Vancouver Studios,8.8,"Westminster Borough, London",Excellent ,928 reviews,Price 872 zł,4.4 km from center,Studio Apartment,4,,Location 9.5
+644,Oliver Plaza Hotel,8.2,"Kensington and Chelsea, London",Very Good ,"1,994 reviews","Original price 1,471 zł. Current price 1,030 zł.",5 km from center,Single Room,4,,
+645,KingswayPark Hotel at Park Avenue,7.3,"Westminster Borough, London",Good ,38 reviews,Price 544 zł,3.2 km from center,Standard Single Room,3,Breakfast included,
+646,The Montana Hotel,8.1,"Kensington and Chelsea, London",Very Good ,"3,102 reviews",Price 525 zł,4.1 km from center,Economy Single Room with Shared Bathroom,3,,Location 9.4
+647,Simply Rooms & Suites,7.2,"Hammersmith and Fulham, London",Good ,574 reviews,Price 588 zł,5.7 km from center,Classic Double Room,4,,
+648,The Long Room Hotel and Bar,6.0,"Wandsworth, London",Review score ,401 reviews,Price 300 zł,9.5 km from center,Standard Single Room,2,,
+649,London House Hotel,7.7,"Westminster Borough, London",Good ,"1,631 reviews","Original price 1,198 zł. Current price 719 zł.",4.3 km from center,Small Single Room,3,,
+650,K+K Hotel George Kensington,8.3,"Kensington and Chelsea, London",Very Good ,"1,694 reviews","Price 1,084 zł",5 km from center,Solo Urban ,4,,
+651,Elmwood Hotel,5.9,"Camden, London",Review score ,"1,455 reviews",Price 492 zł,2.4 km from center,Double Room,2,,
+652,CG Kensington,8.3,"Kensington and Chelsea, London",Very Good ,"1,183 reviews",Price 594 zł,4.6 km from center,Small Double Room,4,,Location 9.5
+653,The Bull and The Hide,8.3,"City of London, London",Very Good ,684 reviews,"Price 1,084 zł",3.4 km from center,Deluxe Double Room,0,Breakfast included,Location 9.5
+654,London Stay Apartments,7.6,"Southwark, London",Good ,728 reviews,Price 572 zł,5.5 km from center,Double Room,3,,
+655,The Princess Victoria,8.1,"Hammersmith and Fulham, London",Very Good ,398 reviews,Price 757 zł,7.8 km from center,Double Room,0,,
+656,Buckle Street Studios by Locke,8.6,"Tower Hamlets, London",Excellent ,"1,136 reviews",Price 812 zł,4 km from center,Micro Studio-Corner,4,,
+657,St Christopher's Inn Village - London Bridge,7.4,"Southwark, London",Good ,"2,685 reviews",Price 228 zł,2.5 km from center,Bed in 21-Bed Mixed Dormitory Room with Triple Bunks and External Shared Bathroom,0,,
+658,Plaza London Hotel,5.9,"Tower Hamlets, London",Review score ,753 reviews,Price 353 zł,5.9 km from center,Single Room,3,,
+659,Canary Riverside Plaza Hotel,8.4,"Tower Hamlets, London",Very Good ,623 reviews,"Price 1,736 zł",6.9 km from center,Standard King Room,5,,
+660,New Market Ale House,4.1,"Camden, London",Review score ,98 reviews,Price 539 zł,4 km from center,Double Room with Shared Bathroom,2,,
+661,"Hotel Indigo London Hyde Park Paddington, an IHG Hotel",7.5,"Westminster Borough, London",Good ,550 reviews,Price 927 zł,3.3 km from center,Standard Compact Double Room,4,,
+662,Citadines Trafalgar Square,8.1,"Westminster Borough, London",Very Good ,"2,927 reviews","Price 1,209 zł",200 m from center,Studio,4,,Location 9.7
+663,The Marble Arch Suites,6.3,"Westminster Borough, London",Review score ,548 reviews,Price 621 zł,2.4 km from center,Deluxe Single Room,4,,
+664,Tudor Court Hotel,6.8,"Westminster Borough, London",Review score ,"1,335 reviews",Price 312 zł,3.3 km from center,Single Shared Bathroom,3,,
+665,King Solomon Hotel- Golders Green,5.8,"Golders Green, London",Review score ,"1,408 reviews",Price 289 zł,9.2 km from center,Single Room,3,,
+666,Kensal Green Backpackers,4.9,"Kensington and Chelsea, London",Review score ,"1,145 reviews",Price 87 zł,7.3 km from center,Bed in 8-Bed Mixed Dormitory Room,0,,
+667,Maitrise Hotel Maida Vale - London,6.8,"Brent, London",Review score ,"2,064 reviews",Price 525 zł,5.5 km from center,Standard Single Room,3,,
+668,Red Lion,8.5,London,Very Good ,584 reviews,Price 662 zł,11.7 km from center,Standard Double Room,4,,
+669,Jumeirah Lowndes Hotel,8.2,"Kensington and Chelsea, London",Very Good ,218 reviews,"Price 1,828 zł",2.3 km from center,Superior Double Room,5,,Location 9.4
+670,Georgian House Hotel,7.8,"Westminster Borough, London",Good ,625 reviews,"Price 1,030 zł",2.2 km from center,Classic Double/Twin Room,4,,
+671,OYO Vegas Hotel,6.2,"Westminster Borough, London",Review score ,"1,218 reviews",Price 564 zł,2.1 km from center,Standard Single Room,3,Breakfast included,
+672,The Wolfpack Inn,8.6,"Hammersmith and Fulham, London",Excellent ,241 reviews,Price 735 zł,5.7 km from center,Double Room with Private Bathroom,0,,
+673,The Rembrandt,8.2,"Kensington and Chelsea, London",Very Good ,"1,670 reviews","Price 1,273 zł",3.2 km from center,Classic Twin Room,4,Breakfast included,Location 9.5
+674,Dawson House,8.3,"Camden, London",Very Good ,496 reviews,Price 490 zł,5.8 km from center,Single Room,3,,
+675,Hausd - Leicester Square,8.8,"Westminster Borough, London",Excellent ,347 reviews,"Price 1,662 zł",0.6 km from center,One-Bedroom Suite,4,,Location 9.4
+676,Gresham Hotel Bloomsbury,4.4,"Camden, London",Review score ,"1,483 reviews",Price 440 zł,1.2 km from center,Single Room with Shared Bathroom,0,,
+677,room2 Chiswick Hometel,9.3,"Chiswick, London",Wonderful ,665 reviews,Price 855 zł,9.1 km from center,Sleepwell Room – No Window,4,,Location 9.5
+678,DoubleTree by Hilton London Chelsea,7.8,"Hammersmith and Fulham, London",Good ,"1,561 reviews",Price 654 zł,5.4 km from center,Double Guest Room,4,,
+679,Staunton Hotel - B&B,8.6,"Camden, London",Excellent ,"1,116 reviews","Original price 1,515 zł. Current price 1,416 zł.",1.4 km from center,Standard Twin Room,4,Breakfast included,Location 9.4
+680,Marlin Aldgate Tower Bridge,7.4,"Tower Hamlets, London",Good ,567 reviews,Price 921 zł,4.3 km from center,One-Bedroom Apartment,4,,
+681,Red Lion,8.5,London,Very Good ,584 reviews,Price 662 zł,11.7 km from center,Standard Double Room,4,,
+682,Fraser Place Canary Wharf,8.2,"Tower Hamlets, London",Very Good ,"1,592 reviews",Price 586 zł,8.1 km from center,Deluxe Studio,4,,
+683,The Savoy,9.4,"Westminster Borough, London",Wonderful ,"1,909 reviews","Price 3,473 zł",0.6 km from center,Superior Queen Room,5,,Location 9.8
+684,Residence Inn by Marriott London Bridge,8.3,"Southwark, London",Very Good ,887 reviews,Price 954 zł,3.2 km from center,Studio Suite,4,Breakfast included,
+685,Comfort Inn Victoria,7.2,"Westminster Borough, London",Good ,"1,277 reviews",Price 956 zł,2 km from center,Double Room,3,Breakfast included,
+686,easyHotel London City Shoreditch,6.8,"Islington, London",Review score ,"2,168 reviews",Original price 594 zł. Current price 555 zł.,3 km from center,Double Room without Window,0,,
+687,Garden Court Hotel,7.5,"Westminster Borough, London",Good ,"2,211 reviews",Original price 710 zł. Current price 664 zł.,4.4 km from center,Single Room with Private External Bathroom,3,,
+688,W London,8.6,"Westminster Borough, London",Excellent ,738 reviews,"Price 2,462 zł",450 m from center,"Wonderful Room, Low Floor, Guest room, 1 King",5,,Location 9.5
+689,"The Park Tower Knightsbridge, a Luxury Collection Hotel, London",7.4,"Westminster Borough, London",Good ,765 reviews,"Price 1,918 zł",2.3 km from center,"Classic Room, Guest room, 1 King",5,,Location 9.4
+690,King Solomon Hotel- Golders Green,5.8,"Golders Green, London",Review score ,"1,408 reviews",Price 289 zł,9.2 km from center,Single Room,3,,
+691,Buckle Street Studios by Locke,8.6,"Tower Hamlets, London",Excellent ,"1,136 reviews",Price 812 zł,4 km from center,Micro Studio-Corner,4,,
+692,The Henrietta Hotel,9.0,"Westminster Borough, London",Wonderful ,560 reviews,"Price 1,942 zł",450 m from center,Standard King Room,4,,Location 9.8
+693,Howard Winchester Hotel,7.9,"Camden, London",Good ,"1,199 reviews",Price 910 zł,2.5 km from center,Double Room with Extra Single Bed,0,,Location 9.3
+694,The Westbourne Hyde Park,8.5,"Westminster Borough, London",Very Good ,"2,392 reviews","Original price 1,368 zł. Current price 1,279 zł.",3.5 km from center,Deluxe Double Studio,4,,
+695,Thistle London Marble Arch,7.5,"Westminster Borough, London",Good ,"4,041 reviews","Original price 1,302 zł. Current price 976 zł.",2.2 km from center,Standard Double Room,4,,Location 9.4
+696,The Brookmill,8.4,"Lewisham, London",Very Good ,76 reviews,Original price 817 zł. Current price 764 zł.,8.4 km from center,Standard Double Room,0,,
+697,Pembury Hotel at Finsbury Park,5.9,"Hackney, London",Review score ,"1,075 reviews",Original price 436 zł. Current price 367 zł.,6.8 km from center,Single Room,3,,
+698,H10 London Waterloo,8.4,"Southwark, London",Very Good ,"4,753 reviews",Price 822 zł,1.8 km from center,Double Room,4,,
+699,small elephant,5.6,"Southwark, London",Review score ,22 reviews,Original price 392 zł. Current price 367 zł.,2.2 km from center,Single Room with Shared Bathroom,0,,
+700,The Sumner Hotel,7.4,"Westminster Borough, London",Good ,460 reviews,"Original price 1,128 zł. Current price 1,054 zł.",2.5 km from center,Standard Double or Twin Room,4,,
+701,Georgian House Hotel,7.8,"Westminster Borough, London",Good ,625 reviews,"Original price 1,030 zł. Current price 963 zł.",2.2 km from center,Classic Double/Twin Room,4,,
+702,OYO Vegas Hotel,6.2,"Westminster Borough, London",Review score ,"1,218 reviews",Price 564 zł,2.1 km from center,Standard Single Room,3,Breakfast included,
+703,The Wolfpack Inn,8.6,"Hammersmith and Fulham, London",Excellent ,241 reviews,Original price 735 zł. Current price 688 zł.,5.7 km from center,Double Room with Private Bathroom,0,,
+704,The Rembrandt,8.2,"Kensington and Chelsea, London",Very Good ,"1,670 reviews","Price 1,273 zł",3.2 km from center,Classic Twin Room,4,Breakfast included,Location 9.5
+705,Dawson House,8.3,"Camden, London",Very Good ,496 reviews,Price 490 zł,5.8 km from center,Single Room,3,,
+706,Hausd - Leicester Square,8.8,"Westminster Borough, London",Excellent ,347 reviews,"Price 1,662 zł",0.6 km from center,One-Bedroom Suite,4,,Location 9.4
+707,Hand & Flower,8.4,"Hammersmith and Fulham, London",Very Good ,563 reviews,"Price 1,302 zł",5.7 km from center,Luxury Double Room,0,Breakfast included,
+708,Camden Apartments,6.9,"Islington, London",Review score ,99 reviews,"Original price 1,144 zł. Current price 1,070 zł.",4.6 km from center,Superior Studio,3,,
+709,Twin Towers Hotel,4.3,"Brent, London",Review score ,67 reviews,Price 368 zł,9.3 km from center,Triple Room,0,,
+710,The Kings Head Hotel,7.2,"Acton, London",Good ,944 reviews,Original price 556 zł. Current price 520 zł.,10.1 km from center,Classic Double Room,4,,
+711,NOX Kensington,7.5,"Kensington and Chelsea, London",Good ,"1,414 reviews",Price 567 zł,5.7 km from center,Double Studio (Sole Use),4,,
+712,Garden Court Hotel,7.5,"Westminster Borough, London",Good ,"2,211 reviews",Original price 710 zł. Current price 664 zł.,4.4 km from center,Single Room with Private External Bathroom,3,,
+713,The Dorchester - Dorchester Collection,9.2,"Westminster Borough, London",Wonderful ,225 reviews,"Price 4,113 zł",1.7 km from center,Deluxe Queen Room,5,,Location 9.6
+714,Plaza London Hotel,5.9,"Tower Hamlets, London",Review score ,753 reviews,Original price 392 zł. Current price 367 zł.,5.9 km from center,Single Room,3,,
+715,Hotel Unique,7.7,"Golders Green, London",Good ,283 reviews,Price 441 zł,8.8 km from center,Single Room,3,,
+716,Affordable Lux and Cozy 1 bed flat in Chelsea,8.5,"Kensington and Chelsea, London",Very Good ,63 reviews,Original price 872 zł. Current price 815 zł.,4.4 km from center,Studio Apartment,4,,Location 9.3
+717,Point A Hotel London Shoreditch,7.9,"Hackney, London",Good ,"4,631 reviews",Price 654 zł,3.4 km from center,Double Room - No Window,3,,
+718,The Sumner Hotel,7.4,"Westminster Borough, London",Good ,460 reviews,"Original price 1,128 zł. Current price 1,054 zł.",2.5 km from center,Standard Double or Twin Room,4,,
+719,OYO The Arch Wembley,7.1,"Brent, London",Good ,853 reviews,Original price 363 zł. Current price 339 zł.,12 km from center,Standard Single Room,3,,
+720,Tulse Hill Luxury Cosy Rooms,8.5,"Lambeth, London",Very Good ,102 reviews,Original price 784 zł. Current price 690 zł.,7.8 km from center,Double Room with Shared Bathroom,0,,
+721,146 Studios,7.7,"Westminster Borough, London",Good ,"1,708 reviews",Price 594 zł,2.9 km from center,Double Studio (Lower Ground Floor),4,,
+722,ApartaSuites Emerald,6.7,"Camden, London",Review score ,12 reviews,Original price 621 zł. Current price 581 zł.,1.7 km from center,One-Bedroom Apartment,3,,
+723,The Carlton Tower Jumeirah,9.1,"Kensington and Chelsea, London",Wonderful ,94 reviews,"Price 4,177 zł",2.4 km from center,Superior Room,5,,Location 9.8
+724,The Crown Hotel,7.5,London,Good ,"2,354 reviews",Original price 735 zł. Current price 688 zł.,8.1 km from center,Deluxe Double Room,4,,
+725,The Langham London,9.3,"Westminster Borough, London",Wonderful ,"1,896 reviews","Price 2,615 zł",1.6 km from center, Superior Twin Room,5,,Location 9.7
+726,Fox and Grapes,8.3,"Wimbledon, London",Very Good ,109 reviews,Price 681 zł,11.5 km from center,Double Room,3,,
+727,The Adria,9.3,"Kensington and Chelsea, London",Wonderful ,259 reviews,"Original price 2,174 zł. Current price 2,032 zł.",3.9 km from center,Superior Double Room,5,,Location 9.5
+728,Montagu Place Hotel,8.4,"Westminster Borough, London",Very Good ,437 reviews,"Original price 1,642 zł. Current price 1,478 zł.",2.5 km from center,Standard Double Room,4,,Location 9.4
+729,"art'otel London Battersea Power Station, Powered by Radisson Hotels",,"Wandsworth, London",,,"Price 1,956 zł",3 km from center,Art Room King,4,,
+730,ME London by Melia,8.6,"Westminster Borough, London",Excellent ,"1,528 reviews","Original price 2,065 zł. Current price 1,930 zł.",0.8 km from center,Aura Guestroom,5,,Location 9.5
+731,The Melville Hotel Kings Cross,7.2,"Camden, London",Good ,"1,236 reviews","Original price 1,090 zł. Current price 1,019 zł.",2.4 km from center,One-Bedroom Chalet,2,,
+732,Aspen Hotel,7.3,"Westminster Borough, London",Good ,485 reviews,"Original price 1,046 zł. Current price 978 zł.",3.3 km from center,Double Studio,3,,
+733,Hotel Lily,4.5,"Hammersmith and Fulham, London",Review score ,"2,750 reviews",Original price 458 zł. Current price 429 zł.,5.4 km from center,Twin Room,2,,
+734,Comfortable Room With Ensuite,9.3,"Tower Hamlets, London",Wonderful ,72 reviews,Original price 652 zł. Current price 610 zł.,4 km from center,Deluxe Double Room with Shower,4,,Location 9.5
+735,London Olympus Hotel,6.9,"Newham, London",Review score ,438 reviews,Price 512 zł,10.2 km from center,Double Room,2,,
+736,The Hari London,8.9,"Kensington and Chelsea, London",Excellent ,680 reviews,"Price 2,349 zł",2.3 km from center,Superior King Room,5,,Location 9.6
+737,The Rookery,9.2,"Islington, London",Wonderful ,406 reviews,"Price 1,629 zł",2.2 km from center,Club Single Room,4,,Location 9.3
+738,easyHotel Paddington,4.8,"Westminster Borough, London",Review score ,"1,850 reviews",Price 463 zł,3.3 km from center,Double Room without Window,2,,
+739,NOX Golders Green,8.3,"Golders Green, London",Very Good ,"1,520 reviews",Original price 515 zł. Current price 463 zł.,9 km from center,Single Studio,4,,
+740,Brick lane stay,4.5,"Tower Hamlets, London",Review score ,457 reviews,Original price 485 zł. Current price 453 zł.,4.1 km from center,Budget Double Room,2,,
+741,"Staybridge Suites London-Vauxhall, an IHG Hotel",8.8,"Lambeth, London",Excellent ,851 reviews,"Price 1,153 zł",1.9 km from center,Studio Suite,4,Breakfast included,
+742,Pasha Hotel - 3* Boutique Hotel,4.4,"Southwark, London",Review score ,"1,003 reviews",Original price 358 zł. Current price 335 zł.,3.9 km from center,Economy Single Room,3,,
+743,COMO The Halkin,9.0,"Westminster Borough, London",Wonderful ,73 reviews,"Price 2,795 zł",1.9 km from center,Room standard,5,,Location 9.4
+744,Locke at Broken Wharf,8.9,"City of London, London",Excellent ,"1,012 reviews",Price 877 zł,2.2 km from center,Micro Studio,4,,Location 9.5
+745,"Great Northern Hotel, A Tribute Portfolio Hotel, London",8.3,"Camden, London",Very Good ,502 reviews,"Price 1,340 zł",2.6 km from center,"Couchette, Guest room, 1 Double",5,,Location 9.5
+746,Axiom Park Hotel,6.1,"Wandsworth, London",Review score ,"1,875 reviews",Original price 664 zł. Current price 621 zł.,4.2 km from center,Standard Studio,4,,
+747,"Queensway Hotel, Sure Hotel Collection by Best Western",6.6,"Westminster Borough, London",Review score ,932 reviews,Price 437 zł,3.2 km from center,Cozy Single Room,3,,
+748,Insley House,7.4,"Tower Hamlets, London",Good ,12 reviews,Original price 294 zł. Current price 275 zł.,8 km from center,Standard Double Room with Shared Bathroom,0,Breakfast included,
+749,Hour Glass Hotel,7.5,"Southwark, London",Good ,720 reviews,Price 468 zł,3.8 km from center,Double Room with Shared Bathroom,2,,
+750,Ravna Gora,8.1,"Kensington and Chelsea, London",Very Good ,"1,645 reviews",Original price 730 zł. Current price 614 zł.,5.3 km from center,Single Room with Shared Bathroom,3,,Location 9.4
+751,Canary Riverside Plaza Hotel,8.4,"Tower Hamlets, London",Very Good ,623 reviews,"Price 1,736 zł",6.9 km from center,Standard King Room,5,,
+752,F3 Cosy Single Room (Sandycroft Guest House),7.1,"Greenwich, London",Good ,20 reviews,Price 253 zł,16.3 km from center,Deluxe Single Room,0,,
+753,Mercure London Bridge,8.2,"Southwark, London",Very Good ,863 reviews,Price 844 zł,2 km from center,Classic Room with Queen Bed,4,,
+754,"The Dixon, Tower Bridge, Autograph Collection",8.8,"Southwark, London",Excellent ,"1,238 reviews",Price 854 zł,3.6 km from center,Twin Room,4,,Location 9.4
+755,Hotel du Vin Cannizaro House Wimbledon,8.1,"Wimbledon, London",Very Good ,"1,057 reviews",Price 779 zł,11.6 km from center,Classic Double Room,4,,Location 9.3
+756,Pasha Hotel - 3* Boutique Hotel,4.4,"Southwark, London",Review score ,"1,003 reviews",Price 358 zł,3.9 km from center,Economy Single Room,3,,
+757,Gower House Hotel,6.4,"Camden, London",Review score ,"1,414 reviews",Original price 694 zł. Current price 465 zł.,1.6 km from center,Single Room,3,Breakfast included,
+758,Kensington Prime Hotel,8.3,"Kensington and Chelsea, London",Very Good ,525 reviews,Price 763 zł,5.7 km from center,Standard Double Room,3,,
+759,Point A London Liverpool Street,7.9,"Tower Hamlets, London",Good ,"5,818 reviews",Price 654 zł,3.8 km from center,Double Room without Window,3,,
+760,Elmwood Hotel,5.9,"Camden, London",Review score ,"1,455 reviews",Price 492 zł,2.4 km from center,Double Room,2,,
+761,The Ritz London,9.5,"Westminster Borough, London",Exceptional ,636 reviews,"Price 10,862 zł",0.9 km from center,Junior Suite,5,,Location 9.8
+762,"Charlotte Street Hotel, Firmdale Hotels",9.1,"Westminster Borough, London",Wonderful ,129 reviews,"Price 2,680 zł",1.3 km from center,Superior Room,5,,Location 9.6
+763,Carlton Hotel,6.7,"Westminster Borough, London",Review score ,"1,022 reviews",Price 614 zł,2.1 km from center,Double Room with private toilet and shower,2,,
+764,The Crown Hotel,7.5,London,Good ,"2,354 reviews",Price 735 zł,8.1 km from center,Deluxe Double Room,4,,
+765,mk hotel london,7.8,"Wandsworth, London",Good ,748 reviews,Original price 581 zł. Current price 523 zł.,7.6 km from center,Economy Single Room,0,Breakfast included,
+766,Point A Hotel London Shoreditch,7.9,"Hackney, London",Good ,"4,631 reviews",Price 654 zł,3.4 km from center,Double Room - No Window,3,,
+767,Astor Hyde Park Hostel,7.7,"Kensington and Chelsea, London",Good ,"1,855 reviews",Price 191 zł,3.7 km from center,Bed in 10-Bed Female Dorm Ensuite,0,,
+768,Axiom Park Hotel,6.1,"Wandsworth, London",Review score ,"1,875 reviews",Price 641 zł,4.2 km from center,Standard Studio,4,,
+769,Norfolk Towers Paddington,7.4,"Westminster Borough, London",Good ,"4,714 reviews",Price 824 zł,3.2 km from center,Club Double Room,4,,
+770,Sunborn London Yacht Hotel,8.0,"Newham, London",Very Good ,"4,447 reviews","Price 1,236 zł",10.6 km from center,Classic King room with Dockview,4,Breakfast included,
+771,Selina Camden,7.9,"Camden, London",Good ,301 reviews,Original price 366 zł. Current price 311 zł.,4.4 km from center,Bunk Bed in Mixed Dormitory Room,3,,
+772,"London Chigwell Prince Regent Hotel, BW Signature Collection",6.6,London,Review score ,"1,154 reviews",Original price 567 zł. Current price 482 zł.,17 km from center,Classic Double Room,4,,
+773,London Olympus Hotel Nirvana,7.0,"Newham, London",Good ,522 reviews,Price 440 zł,10.1 km from center,Deluxe Single Room,2,,
+774,The London EDITION,8.4,"Westminster Borough, London",Very Good ,135 reviews,"Price 2,217 zł",1.2 km from center,"Superior Queen, Guest room, 1 Queen",5,,Location 9.4
+775,The Angerstein Hotel,7.5,"Greenwich, London",Good ,953 reviews,Price 309 zł,10.3 km from center,Single Room with Shared Bathroom,3,,
